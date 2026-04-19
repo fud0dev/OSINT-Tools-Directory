@@ -57,28 +57,39 @@ document.addEventListener('DOMContentLoaded', () => {
             featuredSection.style.display = 'block';
             featuredGrid.innerHTML = '';
             featured.forEach(tool => {
-                featuredGrid.appendChild(createCard(tool, true));
+                featuredGrid.appendChild(createCard(tool));
             });
         }
     }
 
-    function createCard(tool, isFeatured = false) {
+    function createCard(tool) {
+        const linkWrapper = document.createElement('a');
+        linkWrapper.href = tool.url;
+        linkWrapper.target = "_blank";
+        linkWrapper.className = 'card-link';
+
         const card = document.createElement('div');
         card.className = 'card';
-        if (isFeatured) card.style.borderColor = 'var(--accent-color)';
+
+        // Simplify risk badge
+        const riskLevel = tool.riesgo || 'Desconocido';
 
         card.innerHTML = `
-            <div class="card-title">${tool.nombre}</div>
+            <div class="card-title">
+                ${tool.nombre}
+                <span class="card-arrow">&rarr;</span>
+            </div>
             <div class="card-desc">${tool.descripcion}</div>
             <div class="card-tags">
                 ${tool.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
             </div>
             <div class="card-footer">
-                <span class="risk-badge">${tool.riesgo}</span>
-                <a href="${tool.url}" target="_blank" class="btn-visit">Visitar Tool _</a>
+                <span class="risk-badge">Riesgo: ${riskLevel}</span>
             </div>
         `;
-        return card;
+        
+        linkWrapper.appendChild(card);
+        return linkWrapper;
     }
 
     function filterTools() {
