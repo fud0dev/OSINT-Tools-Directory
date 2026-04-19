@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "Git-Hound",
+    "url": "https://github.com/tillson/git-hound",
+    "descripcion": "Encuentra información sensible expuesta en repositorios de GitHub. Ideal para reconocimiento de código.",
+    "categoria": "GitHub",
+    "riesgo": "🟢 Bajo",
+    "tags": ["GitHub", "Datos Sensibles", "Reconocimiento"],
+    "fecha_agregado": "2026-04-19"
+  }
+]
