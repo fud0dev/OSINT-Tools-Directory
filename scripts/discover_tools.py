@@ -9,8 +9,6 @@ from groq_utils import get_tool_analysis
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 TOOLS_JSON_PATH = "data/tools.json"
-README_PATH = "README.md"
-
 def load_existing_tools():
     if os.path.exists(TOOLS_JSON_PATH):
         with open(TOOLS_JSON_PATH, 'r', encoding='utf-8') as f:
@@ -20,40 +18,6 @@ def load_existing_tools():
 def save_tools(tools):
     with open(TOOLS_JSON_PATH, 'w', encoding='utf-8') as f:
         json.dump(tools, f, indent=2, ensure_ascii=False)
-
-def generate_readme(tools):
-    """Genera el README.md a partir del JSON de herramientas."""
-    header = """# OSINT Tools Directory
-
-Colección centralizada de herramientas para investigadores y profesionales de la seguridad.
-
-> [!TIP]
-> **Versión Web**: Puedes ver este directorio en un formato mucho más visual y buscador en: [https://fud0dev.github.io/OSINT-Tools-Directory/](https://fud0dev.github.io/OSINT-Tools-Directory/)
-
----
-
-"""
-    
-    # Agrupar por categorías
-    categories = {}
-    for tool in tools:
-        cat = tool['categoria']
-        if cat not in categories: categories[cat] = []
-        categories[cat].append(tool)
-        
-    content = header
-    content += "## 📂 Directorio\n\n"
-    
-    for cat, items in categories.items():
-        content += f"### {cat}\n\n"
-        for item in items:
-            content += f"#### [{item['nombre']}]({item['url']})\n"
-            content += f"{item['descripcion']}\n\n"
-            content += f"**Riesgo:** {item['riesgo']} | **Tags:** {', '.join(item['tags'])}\n\n"
-            content += "---\n\n"
-    
-    with open(README_PATH, 'w', encoding='utf-8') as f:
-        f.write(content)
 
 def search_new_tools():
     """Lógica de búsqueda real en GitHub, Reddit y RSS."""
@@ -115,7 +79,10 @@ def main():
     
     for item in findings:
         url = item.get('url') or item.get('html_url')
+        if not url: continue
         if url.lower() in existing_urls: continue
+        
+        print(f"Analizando nueva herramienta: {item.get('name')}...")
         
         analysis = get_tool_analysis(GROQ_API_KEY, {
             'name': item.get('name'),
@@ -137,11 +104,12 @@ def main():
             }
             existing_tools.append(tool_entry)
             new_adds.append(tool_entry)
+            # Evitar colision de duplicados en la misma ejecucion
+            existing_urls.add(url.lower())
 
     if new_adds:
         save_tools(existing_tools)
-        generate_readme(existing_tools)
-        print(f"Se han añadido {len(new_adds)} herramientas nuevas.")
+        print(f"Se han añadido {len(new_adds)} herramientas nuevas al sistema web.")
     else:
         print("No se encontraron herramientas nuevas.")
 
