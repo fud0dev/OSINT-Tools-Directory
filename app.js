@@ -20,9 +20,16 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
     function init() {
+        // Sort explicitly by id descending so newest are on top
+        allTools.sort((a, b) => b.id - a.id);
+        
+        // Mark top 5 as featured/new
+        for(let i = 0; i < Math.min(5, allTools.length); i++) {
+            allTools[i].isNew = true;
+        }
+
         renderCategories();
         renderTools(allTools);
-        renderFeatured();
     }
 
     function renderCategories() {
@@ -50,18 +57,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    function renderFeatured() {
-        // Las últimas 5 herramientas según su ID o fecha
-        const featured = allTools.sort((a, b) => b.id - a.id).slice(0, 5);
-        if (featured.length > 0) {
-            featuredSection.style.display = 'block';
-            featuredGrid.innerHTML = '';
-            featured.forEach(tool => {
-                featuredGrid.appendChild(createCard(tool));
-            });
-        }
-    }
-
     function createCard(tool) {
         const linkWrapper = document.createElement('a');
         linkWrapper.href = tool.url;
@@ -71,20 +66,16 @@ document.addEventListener('DOMContentLoaded', () => {
         const card = document.createElement('div');
         card.className = 'card';
 
-        // Simplify risk badge
-        const riskLevel = tool.riesgo || 'Desconocido';
+        const newBadge = tool.isNew ? '<span class="badge-new">NUEVA</span>' : '';
 
         card.innerHTML = `
             <div class="card-title">
-                ${tool.nombre}
+                <span>${tool.nombre} ${newBadge}</span>
                 <span class="card-arrow">&rarr;</span>
             </div>
             <div class="card-desc">${tool.descripcion}</div>
             <div class="card-tags">
                 ${tool.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
-            </div>
-            <div class="card-footer">
-                <span class="risk-badge">Riesgo: ${riskLevel}</span>
             </div>
         `;
         

@@ -105,27 +105,20 @@ header {
     border-color: var(--text-primary);
 }
 
-/* Featured Section */
-.featured-section {
-    padding: 2rem 0;
-    margin-bottom: 3rem;
-    background-color: rgba(255, 255, 255, 0.015);
-    border-top: 1px solid var(--border-color);
-    border-bottom: 1px solid var(--border-color);
+/* NEW Badge */
+.badge-new {
+    font-size: 0.65rem;
+    padding: 0.15rem 0.45rem;
+    background-color: var(--text-primary);
+    color: var(--bg-color);
+    border-radius: 4px;
+    margin-left: 10px;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    vertical-align: middle;
 }
 
-.section-title {
-    font-size: 1.2rem;
-    font-weight: 600;
-    margin-bottom: 2rem;
-    color: var(--text-primary);
-    max-width: 1300px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0 2rem;
-}
-
-.featured-grid, .tool-grid {
+.tool-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 1.5rem;
@@ -216,22 +209,7 @@ header {
     letter-spacing: 0.05em;
 }
 
-.card-footer {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    padding-top: 1.2rem;
-    border-top: 1px solid var(--border-color);
-}
 
-.risk-badge {
-    font-size: 0.8rem;
-    font-weight: 600;
-    color: var(--text-primary);
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}
 
 /* Footer */
 footer {
