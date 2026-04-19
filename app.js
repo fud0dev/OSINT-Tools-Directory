@@ -69,8 +69,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const newBadge = tool.isNew ? '<span class="badge-new">NUEVA</span>' : '';
 
         card.innerHTML = `
+            ${newBadge}
             <div class="card-title">
-                <span>${tool.nombre} ${newBadge}</span>
+                ${tool.nombre}
                 <span class="card-arrow">&rarr;</span>
             </div>
             <div class="card-desc">${tool.descripcion}</div>

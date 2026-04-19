@@ -107,15 +107,15 @@ header {
 
 /* NEW Badge */
 .badge-new {
+    display: table;
+    margin-bottom: 0.7rem;
     font-size: 0.65rem;
     padding: 0.15rem 0.45rem;
     background-color: var(--text-primary);
     color: var(--bg-color);
     border-radius: 4px;
-    margin-left: 10px;
     font-weight: 800;
     letter-spacing: 0.05em;
-    vertical-align: middle;
 }
 
 .tool-grid {
