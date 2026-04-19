@@ -1212,5 +1212,18 @@
       "OSINT"
     ],
     "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 92,
+    "nombre": "Herramienta de Búsqueda de Inteligencia Abierta",
+    "url": "https://inteltechniques.com/tools/Search.html",
+    "descripcion": "Esta herramienta ofrece una variedad de búsqueda y herramientas de inteligencia abierta para recopilar información de fuentes públicas. Permite a los usuarios realizar búsquedas avanzadas en diferentes plataformas y bases de datos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Búsqueda",
+      "Inteligencia Abierta",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-04-19"
   }
 ]
