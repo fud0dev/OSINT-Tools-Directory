@@ -778,5 +778,425 @@
       "CLI",
       "Reddit"
     ]
+  },
+  {
+    "id": 61,
+    "nombre": "bigbossbot",
+    "url": "https://github.com/kitakitsune0x/bigbossbot",
+    "descripcion": "Panel de inteligencia en vivo autoalojado para seguimiento de conflictos, alertas, mercados y feeds de OSINT, con acceso opcional para invitados y soporte MCP para usuarios autenticados. Esta herramienta ofrece una plataforma integral para la recopilación y visualización de información en tiempo real.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Inteligencia",
+      "OSINT",
+      "Seguimiento"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 62,
+    "nombre": "huntkit",
+    "url": "https://github.com/assafkip/huntkit",
+    "descripcion": "Kit de investigación para Claude Code que incluye gestión de casos, OSINT, técnicas analíticas estructuradas y captura de evidencia de cadena de custodia, junto con servidores MCP de inteligencia de amenazas empaquetados. Es una herramienta integral para investigación y análisis de seguridad",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Investigación",
+      "OSINT",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 63,
+    "nombre": "KUMO-Domain-Recon-Tool",
+    "url": "https://github.com/karim852/KUMO-Domain-Recon-Tool",
+    "descripcion": "Kumo es un marco de trabajo de reconocimiento de seguridad y OSINT para dominios. Al introducir un dominio, ofrece información en tiempo real a través de 21 módulos paralelos, incluyendo DNS, puertos abiertos, credenciales filtradas y más.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Reconocimiento",
+      "Dominios",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 64,
+    "nombre": "DocHunt",
+    "url": "https://github.com/Sentrak/DocHunt",
+    "descripcion": "Revela los datos ocultos en tus archivos. Es de código abierto, rápida y amigable con la privacidad.",
+    "categoria": "OSINT General",
+    "riesgo": "🟢 Bajo",
+    "tags": [
+      "Análisis de archivos",
+      "Información oculta",
+      "Privacidad"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 65,
+    "nombre": "awesome-lead-generation",
+    "url": "https://github.com/adops-tool/awesome-lead-generation",
+    "descripcion": "Directorio curado de herramientas para la generación de leads, enriquecimiento de datos, alcance en frío y escucha social. Descubre la pila de crecimiento moderna para automatizar procesos de ventas, verificar correos electrónicos y analizar la intención del cliente.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Generación de leads",
+      "Enriquecimiento de datos",
+      "Automatización de ventas"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 66,
+    "nombre": "instagram-story-research",
+    "url": "https://github.com/Chocapikk/instagram-story-research",
+    "descripcion": "El indicador de 'visto' de Instagram es engañoso. Extensión de investigación que bloquea la mutación de visto, almacena historias, descarga multimedia y detecta eliminaciones.",
+    "categoria": "Instagram",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Instagram",
+      "Investigación",
+      "Privacidad"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 67,
+    "nombre": "WP-Dex",
+    "url": "https://github.com/DotX-47/WP-Dex",
+    "descripcion": "WP-Dex es una herramienta de reconocimiento pasivo avanzada para sitios web de WordPress, diseñada para la auditoría de seguridad y la recopilación de inteligencia. Extrae información detallada sobre sitios web de WordPress sin realizar explotación o modificación.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "WordPress",
+      "Reconocimiento",
+      "Auditoria"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 68,
+    "nombre": "cekresi.js",
+    "url": "https://github.com/adjisoft/cekresi.js",
+    "descripcion": "Herramienta para verificar el estado de pedidos de paquetería en tiendas en línea de Indonesia. Permite a los usuarios rastrear el progreso de sus envíos de manera eficiente.",
+    "categoria": "OSINT General",
+    "riesgo": "🟢 Bajo",
+    "tags": [
+      "rastreo",
+      "paqueteria",
+      "indonesia"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 69,
+    "nombre": "Google-Play-Store-Scraper",
+    "url": "https://github.com/OstinUA/Google-Play-Store-Scraper",
+    "descripcion": "Herramienta de extracción de metadatos de desarrolladores de la Google Play Store a gran escala, con procesamiento de URL por lotes y API resiliente. Permite analizar el mercado Android de forma eficiente.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Scraper",
+      "GooglePlay",
+      "Metadatos"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 70,
+    "nombre": "beatrooter",
+    "url": "https://github.com/0xthearchitect/beatrooter",
+    "descripcion": "Esta herramienta permite a los usuarios interactuar con raíces de forma eficiente. Ayuda a aquellos interesados en dominar y explorar las raíces de los sistemas.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "raíces",
+      "exploración",
+      "seguridad"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 71,
+    "nombre": "terminal",
+    "url": "https://github.com/rokibulroni/terminal",
+    "descripcion": "Un centro de referencia de comandos de ciberseguridad de código abierto y élite que presenta miles de hacks y configuraciones buscables a través de 18 vectores operativos. Ofrece una amplia gama de herramientas y recursos para profesionales de la ciberseguridad.",
+    "categoria": "GitHub",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "ciberseguridad",
+      "herramienta",
+      "codigoabierto"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 72,
+    "nombre": "osint-username-search",
+    "url": "https://github.com/ozcelikcalgan5169/osint-username-search",
+    "descripcion": "Herramienta de inteligencia de código abierto para buscar disponibilidad de nombres de usuario y investigación de identidad digital de forma rápida y asíncrona. Permite verificar nombres de marca en más de 50 plataformas utilizando Python y Asyncio.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "OSINT",
+      "Búsqueda",
+      "IdentidadDigital"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 73,
+    "nombre": "password-tools",
+    "url": "https://github.com/cybs-joe/password-tools",
+    "descripcion": "Herramienta para la gestión y el análisis de contraseñas, diseñada para ayudar en la seguridad informática. Puedes utilizarla para diversas tareas relacionadas con la autenticación y la protección de cuentas.",
+    "categoria": "Otros",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Seguridad",
+      "Autenticación",
+      "Contraseñas"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 74,
+    "nombre": "epstein-files",
+    "url": "https://github.com/wehale/epstein-files",
+    "descripcion": "Script para descargar la colección completa de documentos públicamente disponibles relacionados con Epstein/Maxwell de fuentes gubernamentales públicas. El script es la colección en sí mismo, sin almacenar PDFs.",
+    "categoria": "OSINT General",
+    "riesgo": "🟢 Bajo",
+    "tags": [
+      "Investigacion",
+      "Documentos",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 75,
+    "nombre": "DorkSINT",
+    "url": "https://github.com/DiggityDooo/DorkSINT",
+    "descripcion": "DorkSINT es una herramienta de línea de comandos de Python de código abierto que acelera el uso de Google dorking convirtiendo el objetivo de búsqueda en consultas estructuradas y listas para pegar. Está diseñada para investigaciones de seguridad legales y autorizadas.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Búsqueda",
+      "OSINT",
+      "Dorking"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 76,
+    "nombre": "th3lazyst4lker",
+    "url": "https://github.com/MrMisterGD/th3lazyst4lker",
+    "descripcion": "La herramienta de OSINT para el investigador perezoso, la mejor herramienta integral para determinar 'qué es esto' que podrás encontrar. Proporciona una solución para investigadores que buscan información de manera eficiente.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Investigacion",
+      "OSINT",
+      "Herramienta"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 77,
+    "nombre": "FaceTracker-Pro",
+    "url": "https://github.com/waleedshamhan2050-sys/FaceTracker-Pro",
+    "descripcion": "Herramienta de OSINT avanzada para encontrar cuentas de redes sociales utilizando reconocimiento facial. Es una herramienta que facilita la búsqueda de perfiles en diferentes plataformas sociales.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "ReconocimientoFacial",
+      "OSINT",
+      "Ciberseguridad"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 78,
+    "nombre": "SubHunterX",
+    "url": "https://github.com/diroxpatron12/SubHunterX",
+    "descripcion": "Descubre subdominios rápidamente con SubHunterX, una herramienta de Python para enumeración y reconocimiento que utiliza más de 47 fuentes de datos. Está diseñada para realizar búsquedas eficientes y exhaustivas en un entorno de red.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "subdominios",
+      "enumeración",
+      "reconocimiento"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 79,
+    "nombre": "WhiteSINT",
+    "url": "https://github.com/no0xpy/WhiteSINT",
+    "descripcion": "Herramienta de inteligencia de código abierto para uso de sombrero blanco, escrita en Python. Proporciona diversas funcionalidades para la recopilación y análisis de información",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Inteligencia",
+      "OSINT",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 80,
+    "nombre": "Image-OSINT-Extractor",
+    "url": "https://github.com/ArsalanKhan-76/Image-OSINT-Extractor",
+    "descripcion": "Herramienta de análisis de imágenes OSINT que utiliza ExifTool para extraer metadatos, texto y detalles ocultos de archivos de imagen, incluyendo soporte para formato HEIC. Ayuda a obtener información detallada de imágenes para investigación y análisis.",
+    "categoria": "OSINT General",
+    "riesgo": "🟢 Bajo",
+    "tags": [
+      "Análisis de Imágenes",
+      "OSINT",
+      "ExifTool"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 81,
+    "nombre": "ShadowTrace",
+    "url": "https://github.com/nazhickorkmaz/ShadowTrace",
+    "descripcion": "Herramienta de inteligencia de metadatos y forensia digital que analiza datos EXIF ocultos y coordenadas GPS de imágenes. Permite obtener información detallada de las imágenes para fines de investigación y análisis.",
+    "categoria": "OSINT General",
+    "riesgo": "🟢 Bajo",
+    "tags": [
+      "Forensia",
+      "Metadatos",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 82,
+    "nombre": "REGAT",
+    "url": "https://github.com/cybxrghoul/REGAT",
+    "descripcion": "Herramienta de automatización de reconocimiento basada en Python para evaluaciones de seguridad de aplicaciones web autorizadas, que incluye funcionalidades como DNS, headers, SSL, puntos finales, fuzzing y generación de informes.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "automação",
+      "seguridad",
+      "reconocimiento"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 83,
+    "nombre": "SecurityTellers",
+    "url": "https://github.com/0xAlshalahi/SecurityTellers",
+    "descripcion": "Marco de trabajo de inteligencia de dominio e IP - Historial de IP, subdominios, inverso de IP, bypass de Cloudflare. Permite la recopilación y análisis de información de seguridad en línea.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "InteligenciaIP",
+      "OSINT",
+      "SeguridadEnLinea"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 84,
+    "nombre": "insta-checker",
+    "url": "https://github.com/Fungicidal-swahili591/insta-checker",
+    "descripcion": "Seguimiento de seguidores de Instagram, ubicación de quién no sigue de vuelta y visualización del historial de seguimiento mediante su ID de sesión. Permite analizar y gestionar tus interacciones en Instagram de forma eficiente.",
+    "categoria": "Instagram",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Seguimiento",
+      "Instagram",
+      "Análisis"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 85,
+    "nombre": "app.cybai.re",
+    "url": "https://github.com/cletqui/app.cybai.re",
+    "descripcion": "Herramienta multifuncional de ciberseguridad para diversas tareas de análisis y seguridad en línea. Ofrece funcionalidades variadas para la evaluación de la seguridad de sistemas y redes.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "Ciberseguridad",
+      "Análisis",
+      "Herramienta"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 86,
+    "nombre": "galileoff-Dorkful",
+    "url": "https://github.com/galile0ff/galileoff-Dorkful",
+    "descripcion": "Esta herramienta automatiza los pasos de inteligencia de código abierto y recopilación de información, generando consultas de Google Dork basadas en la entrada del usuario. Estándariza el proceso manual de recopilación de datos para hacer que las investigaciones de seguridad sean más rápidas y eficientes.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "OSINT",
+      "Dorkful",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 87,
+    "nombre": "michigan-osint-bgcheck",
+    "url": "https://github.com/Alteratiion/michigan-osint-bgcheck",
+    "descripcion": "Automatización de verificación de antecedentes de Ohio abierta y de código abierto (nombre + estado → registros públicos). Esta herramienta ofrece una forma eficiente de obtener información pública.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "OSINT",
+      "Verificación",
+      "RegistrosPúblicos"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 88,
+    "nombre": "NullTrace",
+    "url": "https://github.com/femoralthings/NullTrace",
+    "descripcion": "Herramienta de esteganografía multiportadora que oculta payloads cifrados en varios formatos de archivo, incluyendo PNG, JPEG, WAV, PDF, ZIP, texto y flujos NTFS. Incluye un motor de detección ciega.",
+    "categoria": "OSINT General",
+    "riesgo": "🟠 Medio",
+    "tags": [
+      "esteganografia",
+      "seguridad",
+      "criptografia"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 89,
+    "nombre": "Geopolitics_Finance_Dashboard",
+    "url": "https://github.com/jaquelynnarcotized946/Geopolitics_Finance_Dashboard",
+    "descripcion": "Seguimiento de eventos geopolíticos, muestra del impacto en el mercado y ayuda a los inversores a monitorear activos con un panel de control y alertas financieras. Esta herramienta proporciona una visión integral para la toma de decisiones informadas.",
+    "categoria": "GitHub",
+    "riesgo": "🟢 Bajo",
+    "tags": [
+      "Geopolítica",
+      "Finanzas",
+      "Monitoreo"
+    ],
+    "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 90,
+    "nombre": "pdf_link_extractor",
+    "url": "https://github.com/Illusion6984/pdf_link_extractor",
+    "descripcion": "Extrae todos los enlaces de un archivo PDF. Esta herramienta es útil para analizar y procesar documentos electrónicos de forma eficiente.",
+    "categoria": "OSINT General",
+    "riesgo": "🟢 Bajo",
+    "tags": [
+      "Extractor",
+      "PDF",
+      "Enlaces"
+    ],
+    "fecha_agregado": "2026-04-19"
   }
 ]

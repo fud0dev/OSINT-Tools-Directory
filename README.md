@@ -1,993 +1,665 @@
-# 🕵️ OSINT Tools Directory
+# OSINT Tools Directory
 
-> Colección centralizada de más de 60 herramientas para investigadores, analistas de inteligencia, periodistas y profesionales de la seguridad.
+Colección centralizada de herramientas para investigadores y profesionales de la seguridad.
 
+> [!TIP]
+> **Versión Web**: Puedes ver este directorio en un formato mucho más visual y buscador en: [https://fud0dev.github.io/OSINT-Tools-Directory/](https://fud0dev.github.io/OSINT-Tools-Directory/)
+
 ---
 
-## ✨ Características
+## 📂 Directorio
 
-| Feature | Detalle |
-|---|---|
-| 🔍 **+60 herramientas** | Directorio en constante crecimiento |
-| 🏷️ **Filtrado por plataforma** | Reddit, LinkedIn, GitHub, Instagram, etc. |
-| ⚠️ **Nivel de riesgo** | Evaluación ética y de Términos de Servicio |
-| 🔓 **Tipo de acceso** | Open Source, GUI o CLI identificados |
+### GitHub
 
-**Leyenda de riesgo:**
-🔴 Alto &nbsp;|&nbsp; 🟠 Medio &nbsp;|&nbsp; 🟢 Bajo
-
----
+#### [GIT-HOUND](https://github.com/tillson/git-hound)
+Encuentra información sensible expuesta en repositorios de GitHub. Ideal para reconocimiento de código.
+
+**Riesgo:** 🟢 Bajo | **Tags:** GitHub, Reconocimiento, Datos Sensibles
 
-## 📚 Índice
+---
 
-<details>
-<summary><strong>GitHub (7 herramientas)</strong></summary>
+#### [GITGRABER](https://github.com/hisxo/gitGraber)
+Busca y clona información sensible en repositorios de GitHub.
 
-- [1. Git-Hound](#1-git-hound)
-- [3. GitGraber](#3-gitgraber)
-- [8. GitGot](#8-gitgot)
-- [9. GitHub Dorks](#9-github-dorks)
-- [11. GH Archive](#11-gh-archive)
-- [13. Digital Privacy](#13-digital-privacy)
-- [58. Find GitHub User ID](#58-find-github-user-id)
+**Riesgo:** 🟢 Bajo | **Tags:** GitHub, Reconocimiento, Datos Sensibles
 
-</details>
+---
 
-<details>
-<summary><strong>LinkedIn (8 herramientas)</strong></summary>
+#### [GITGOT](https://github.com/BishopFox/GitGot)
+Herramienta semiautomatizada con retroalimentación para auditar repositorios Git.
 
-- [2. CrossLinked](#2-crosslinked)
-- [10. ReverseContact](#10-reversecontact)
-- [14. LinkedInt](#14-linkedint)
-- [15. InSpy](#15-inspy)
-- [32. Recruitem](#32-recruitem)
-- [33. LinkedIn Search Engine](#33-linkedin-search-engine)
-- [34. LinkedIn Search Tool](#34-linkedin-search-tool)
-- [57. Intelligence X LinkedIn](#57-intelligence-x-linkedin)
+**Riesgo:** 🟢 Bajo | **Tags:** Auditoría, GitHub, Seguridad
 
-</details>
+---
 
-<details>
-<summary><strong>Instagram (7 herramientas)</strong></summary>
+#### [GITHUB DORKS](https://github.com/techgaun/github-dorks)
+Colección de consultas de búsqueda (dorks) para encontrar información sensible en GitHub.
 
-- [4. InstaLooter](#4-instalooter)
-- [5. Export Comments](#5-export-comments)
-- [6. Profile Analyzer](#6-profile-analyzer)
-- [19. Pickuki](#19-pickuki)
-- [20. SOLG](#20-solg)
-- [25. Toutatis](#25-toutatis)
-- [30. Imginn.io](#30-imginnio)
-- [31. InstaHunt](#31-instahunt)
+**Riesgo:** 🟢 Bajo | **Tags:** GitHub, Datos Sensibles, Dorks
 
-</details>
+---
 
-<details>
-<summary><strong>Twitter/X (10 herramientas)</strong></summary>
+#### [GH ARCHIVE](https://www.gharchive.org/)
+Dataset público de actividad de GitHub: eventos, metadatos y más.
 
-- [16. Followerwonk](#16-followerwonk)
-- [17. Socialdata API](#17-socialdata-api)
-- [22. Twitter Video Downloader](#22-twitter-video-downloader)
-- [23. Download Twitter Data](#23-download-twitter-data)
-- [35. Wayback Tweets](#35-wayback-tweets)
-- [36. Memory.lol](#36-memorylol)
-- [37. Tinfoleak](#37-tinfoleak)
-- [38. Network Tool](#38-network-tool)
-- [40. Deleted Tweet Finder](#40-deleted-tweet-finder)
-- [41. Twitonomy](#41-twitonomy)
-- [56. Foller](#56-foller)
+**Riesgo:** 🟢 Bajo | **Tags:** GitHub, Análisis de Actividad, Dataset
 
-</details>
+---
 
-<details>
-<summary><strong>Facebook (4 herramientas)</strong></summary>
+#### [DIGITAL PRIVACY](https://github.com/ffffffff0x/Digital-Privacy)
+Colección de recursos y herramientas para mejorar la privacidad y seguridad digital.
 
-- [26. Lookup-ID.com](#26-lookup-idcom)
-- [27. DumpItBlue+](#27-dumpitblue)
-- [28. StalkFace](#28-stalkface)
-- [29. Search Is Back](#29-search-is-back)
+**Riesgo:** 🟢 Bajo | **Tags:** GitHub, Seguridad, Privacidad
 
-</details>
+---
 
-<details>
-<summary><strong>Snapchat (2 herramientas)</strong></summary>
+#### [FIND GITHUB USER ID](https://caius.github.io/github_id/)
+Encuentra el ID único de un usuario de GitHub para investigación en repositorios.
 
-- [7. Snapchat-MapScraper](#7-snapchat-mapscraper)
-- [18. SnapIntel](#18-snapintel)
+**Riesgo:** 🟢 Bajo | **Tags:** GitHub, ID de Usuario, Repositorio
 
-</details>
+---
 
-<details>
-<summary><strong>Reddit (16 herramientas)</strong></summary>
+#### [terminal](https://github.com/rokibulroni/terminal)
+Un centro de referencia de comandos de ciberseguridad de código abierto y élite que presenta miles de hacks y configuraciones buscables a través de 18 vectores operativos. Ofrece una amplia gama de herramientas y recursos para profesionales de la ciberseguridad.
 
-- [21. Universal Reddit Scraper (URS)](#21-universal-reddit-scraper-urs)
-- [24. Socid_Extractor](#24-socid_extractor)
-- [44. F5Bot](#44-f5bot)
-- [45. Mostly Harmless](#45-mostly-harmless)
-- [46. RdDeck](#46-rdddeck)
-- [47. Reddit Archive](#47-reddit-archive)
-- [48. Reddit Comment Search](#48-reddit-comment-search)
-- [49. Reddit Hacks](#49-reddit-hacks)
-- [50. Reddit Search](#50-reddit-search)
-- [51. Reddit Stream](#51-reddit-stream)
-- [52. Reddit User Analyser](#52-reddit-user-analyser)
-- [53. Redective](#53-redective)
-- [54. Reditr](#54-reditr)
-- [55. Wisdom of Reddit](#55-wisdom-of-reddit)
-- [59. Free People Search Tool](#59-free-people-search-tool)
-- [60. Reddit Shell](#60-reddit-shell)
+**Riesgo:** 🟠 Medio | **Tags:** ciberseguridad, herramienta, codigoabierto
 
-</details>
+---
 
-<details>
-<summary><strong>Pinterest (2 herramientas)</strong></summary>
+#### [Geopolitics_Finance_Dashboard](https://github.com/jaquelynnarcotized946/Geopolitics_Finance_Dashboard)
+Seguimiento de eventos geopolíticos, muestra del impacto en el mercado y ayuda a los inversores a monitorear activos con un panel de control y alertas financieras. Esta herramienta proporciona una visión integral para la toma de decisiones informadas.
 
-- [42. DownAlbum](#42-downalbum)
-- [43. Pingroupie](#43-pingroupie)
+**Riesgo:** 🟢 Bajo | **Tags:** Geopolítica, Finanzas, Monitoreo
 
-</details>
+---
 
-<details>
-<summary><strong>Multi-plataforma / General (4 herramientas)</strong></summary>
+### LinkedIn
 
-- [12. Social Searcher](#12-social-searcher)
-- [39. Airtable OSINT](#39-airtable)
-- [59. Free People Search Tool](#59-free-people-search-tool)
-- [59. Free People Search Tool](#59-free-people-search-tool)
+#### [CROSSLINKED](https://github.com/m8sec/CrossLinked)
+Enumeración de LinkedIn mediante scraping de motores de búsqueda para recopilar nombres de empleados de una organización.
 
-</details>
+**Riesgo:** 🟢 Bajo | **Tags:** Scraping, LinkedIn, Enumeración
 
 ---
 
-## 🛠️ Herramientas
+#### [REVERSECONTACT](https://www.reversecontact.com/)
+Encuentra perfiles de LinkedIn asociados a cualquier dirección de correo electrónico.
 
----
+**Riesgo:** 🟢 Bajo | **Tags:** LinkedIn, Email, Búsqueda de Perfil
 
-### 1. [GIT-HOUND](https://github.com/tillson/git-hound)
+---
 
-> Encuentra información sensible expuesta en repositorios de GitHub. Ideal para reconocimiento de código.
+#### [LINKEDINT](https://github.com/vysecurity/LinkedInt)
+Inteligencia OSINT específica para LinkedIn.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🔴 Alto |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `GitHub` `Datos Sensibles` `Reconocimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Reconocimiento, LinkedIn, Inteligencia
 
 ---
-
-### 2. [CROSSLINKED](https://github.com/m8sec/CrossLinked)
 
-> Enumeración de LinkedIn mediante scraping de motores de búsqueda para recopilar nombres de empleados de una organización.
+#### [INSPY](https://github.com/jobroche/InSpy)
+Herramienta de enumeración de LinkedIn basada en Python.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `LinkedIn` `Enumeración` `Scraping` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Reconocimiento, LinkedIn, Enumeración
 
 ---
 
-### 3. [GITGRABER](https://github.com/hisxo/gitGraber)
+#### [RECRUITEM](https://recruitin.net/)
+Crea cadenas booleanas de Google para buscar perfiles públicos en redes sociales.
 
-> Busca y clona información sensible en repositorios de GitHub.
+**Riesgo:** 🟢 Bajo | **Tags:** Búsqueda Booleana, LinkedIn, Reclutamiento
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🔴 Alto |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `GitHub` `Datos Sensibles` `Reconocimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 4. [INSTALOOTER](https://pypi.org/project/instalooter/)
+#### [LINKEDIN SEARCH ENGINE](https://cse.google.com/cse?cx=daaf18e804f81bed0)
+Motor de búsqueda programable de Google para perfiles de LinkedIn.
 
-> Descarga imágenes y videos de perfiles de Instagram sin necesidad de acceso a la API.
+**Riesgo:** 🟢 Bajo | **Tags:** LinkedIn, Perfil, Motor de Búsqueda
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `Instagram` `Descargador` `Media` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
-
-### 5. [EXPORT COMMENTS](https://exportcomments.com/)
 
-> Exporta todos los comentarios de publicaciones en redes sociales a Excel.
+#### [LINKEDIN SEARCH TOOL](https://inteltechniques.com/tools/Linkedin.html)
+Interfaz multi-herramienta para investigaciones OSINT en LinkedIn.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Facebook` `Instagram` `Comentarios` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** OSINT, LinkedIn, Herramientas
 
 ---
 
-### 6. [PROFILE ANALYZER](https://inflact.com/tools/profile-analyzer/)
+#### [INTELLIGENCE X LINKEDIN](https://intelx.io/tools?tab=linkedin)
+Herramienta web para búsqueda avanzada de personas y perfiles en LinkedIn.
 
-> Analiza cualquier perfil público de Instagram. Gratuito, ilimitado y sin registro.
+**Riesgo:** 🟢 Bajo | **Tags:** Búsqueda, LinkedIn, Perfil
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Instagram` `Análisis de Perfil` `Estadísticas` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 7. [SNAPCHAT-MAPSCRAPER](https://github.com/nemec/snapchat-map-scraper)
+#### [FREE PEOPLE SEARCH TOOL](https://freepeoplesearchtool.com/)
+Herramienta web para localizar personas en redes sociales y registros públicos.
 
-> Extrae historias públicas de Snapchat desde el Snap Map.
+**Riesgo:** 🟢 Bajo | **Tags:** Online, Búsqueda de Personas, LinkedIn
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `Snapchat` `Scraping` `Geolocalización` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 8. [GITGOT](https://github.com/BishopFox/GitGot)
+### Instagram
 
-> Herramienta semiautomatizada con retroalimentación para auditar repositorios Git.
+#### [INSTALOOTER](https://pypi.org/project/instalooter/)
+Descarga imágenes y videos de perfiles de Instagram sin necesidad de acceso a la API.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `GitHub` `Auditoría` `Seguridad` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Media, Instagram, Descargador
 
 ---
-
-### 9. [GITHUB DORKS](https://github.com/techgaun/github-dorks)
 
-> Colección de consultas de búsqueda (dorks) para encontrar información sensible en GitHub.
+#### [PROFILE ANALYZER](https://inflact.com/tools/profile-analyzer/)
+Analiza cualquier perfil público de Instagram. Gratuito, ilimitado y sin registro.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🔴 Alto |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `GitHub` `Dorks` `Datos Sensibles` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Estadísticas, Análisis de Perfil, Instagram
 
 ---
 
-### 10. [REVERSECONTACT](https://www.reversecontact.com/)
+#### [PICKUKI](https://www.picuki.com/)
+Navega contenido público de Instagram sin necesidad de iniciar sesión.
 
-> Encuentra perfiles de LinkedIn asociados a cualquier dirección de correo electrónico.
+**Riesgo:** 🟢 Bajo | **Tags:** Navegación Anónima, Instagram, Búsqueda
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `LinkedIn` `Email` `Búsqueda de Perfil` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
-
-### 11. [GH ARCHIVE](https://www.gharchive.org/)
 
-> Dataset público de actividad de GitHub: eventos, metadatos y más.
+#### [SOLG](https://github.com/yezz123/SoIG)
+Herramienta OSINT de Instagram que extrae amplia información de una cuenta.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI · Open Source |
-| 🏷️ Tags | `GitHub` `Dataset` `Análisis de Actividad` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Reconocimiento, Análisis de Perfil, Instagram
 
 ---
 
-### 12. [SOCIAL SEARCHER](https://www.social-searcher.com/)
+#### [TOUTATIS](https://pypi.org/project/toutatis/)
+Recupera información privada (teléfono, email, ID) de cuentas de Instagram vía API.
 
-> Monitorea menciones públicas en redes sociales y la web en tiempo real.
+**Riesgo:** 🟢 Bajo | **Tags:** Datos Privados, Instagram, API
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Redes Sociales` `Monitoreo` `Búsqueda` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
-
-### 13. [DIGITAL PRIVACY](https://github.com/ffffffff0x/Digital-Privacy)
 
-> Colección de recursos y herramientas para mejorar la privacidad y seguridad digital.
+#### [IMGINN.IO](https://imginn.io/)
+Visualiza y descarga todo el contenido público de Instagram en un solo lugar.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `GitHub` `Privacidad` `Seguridad` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Media, Instagram, Descargador
 
 ---
 
-### 14. [LINKEDINT](https://github.com/vysecurity/LinkedInt)
+#### [INSTAHUNT](https://instahunt.huntintel.io/)
+Encuentra publicaciones de redes sociales relacionadas con una ubicación geográfica.
 
-> Inteligencia OSINT específica para LinkedIn.
+**Riesgo:** 🟢 Bajo | **Tags:** Búsqueda, Geolocalización, Instagram
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `LinkedIn` `Reconocimiento` `Inteligencia` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 15. [INSPY](https://github.com/jobroche/InSpy)
+#### [instagram-story-research](https://github.com/Chocapikk/instagram-story-research)
+El indicador de 'visto' de Instagram es engañoso. Extensión de investigación que bloquea la mutación de visto, almacena historias, descarga multimedia y detecta eliminaciones.
 
-> Herramienta de enumeración de LinkedIn basada en Python.
+**Riesgo:** 🟠 Medio | **Tags:** Instagram, Investigación, Privacidad
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `LinkedIn` `Enumeración` `Reconocimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
-
-### 16. [FOLLOWERWONK](https://followerwonk.com/)
 
-> Encuentra cuentas de Twitter por biografía y proporciona análisis avanzados de seguidores.
+#### [insta-checker](https://github.com/Fungicidal-swahili591/insta-checker)
+Seguimiento de seguidores de Instagram, ubicación de quién no sigue de vuelta y visualización del historial de seguimiento mediante su ID de sesión. Permite analizar y gestionar tus interacciones en Instagram de forma eficiente.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Búsqueda por Bio` `Descubrimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟠 Medio | **Tags:** Seguimiento, Instagram, Análisis
 
 ---
 
-### 17. [SOCIALDATA API](https://socialdata.tools/)
+### Facebook
 
-> Alternativa no oficial a la API de Twitter para scraping de tweets históricos, perfiles y Spaces.
+#### [EXPORT COMMENTS](https://exportcomments.com/)
+Exporta todos los comentarios de publicaciones en redes sociales a Excel.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Scraping` `API` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Facebook, Instagram, Comentarios
 
 ---
 
-### 18. [SNAPINTEL](https://github.com/Kr0wZ/SnapIntel)
+#### [LOOKUP-ID.COM](https://lookup-id.com/)
+Encuentra el ID de Facebook de cualquier perfil o grupo.
 
-> Herramienta Python para obtener información sobre usuarios de Snapchat.
+**Riesgo:** 🟢 Bajo | **Tags:** Facebook, Perfil, Búsqueda de ID
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `Snapchat` `Información de Usuario` `Reconocimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 19. [PICKUKI](https://www.picuki.com/)
+#### [DUMPITBLUE+](https://chromewebstore.google.com/detail/dumpitblue+/igmgknoioooacbcpcfgjigbaajpelbfe)
+Extensión Chrome para volcar información de Facebook para análisis o reportes.
 
-> Navega contenido público de Instagram sin necesidad de iniciar sesión.
+**Riesgo:** 🟢 Bajo | **Tags:** Facebook, Extracción de Datos, Análisis
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Instagram` `Navegación Anónima` `Búsqueda` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
-
-### 20. [SOLG](https://github.com/yezz123/SoIG)
 
-> Herramienta OSINT de Instagram que extrae amplia información de una cuenta.
+#### [STALKFACE](https://stalkface.com/en/)
+Kit de herramientas de reconocimiento para perfiles de Facebook.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `Instagram` `Reconocimiento` `Análisis de Perfil` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Reconocimiento, Facebook, Análisis de Perfil
 
 ---
 
-### 21. [UNIVERSAL REDDIT SCRAPER (URS)](https://github.com/JosephLai241/URS)
+#### [SEARCH IS BACK](https://searchisback.com/)
+Busca personas y eventos en Facebook por ubicación, relaciones y más.
 
-> Scraping de datos de Reddit en Python para análisis masivo.
+**Riesgo:** 🟢 Bajo | **Tags:** Facebook, Búsqueda, Eventos
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `Reddit` `Scraping` `Análisis de Datos` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 22. [TWITTER VIDEO DOWNLOADER](https://twittervideodownloader.com/)
+### Snapchat
 
-> Descarga videos y GIFs directamente desde tweets.
+#### [SNAPCHAT-MAPSCRAPER](https://github.com/nemec/snapchat-map-scraper)
+Extrae historias públicas de Snapchat desde el Snap Map.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Descargador` `Media` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Geolocalización, Snapchat, Scraping
 
 ---
 
-### 23. [DOWNLOAD TWITTER DATA](https://www.twtdata.com/)
+#### [SNAPINTEL](https://github.com/Kr0wZ/SnapIntel)
+Herramienta Python para obtener información sobre usuarios de Snapchat.
 
-> Exporta datos de Twitter a CSV por usuario, keyword, hashtag, lista o Space.
+**Riesgo:** 🟢 Bajo | **Tags:** Información de Usuario, Snapchat, Reconocimiento
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Descargador` `Exportación de Datos` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 24. [SOCID_EXTRACTOR](https://github.com/soxoj/socid-extractor)
+### Redes Sociales
 
-> Extrae información de usuario de Reddit y otras redes sociales.
+#### [SOCIAL SEARCHER](https://www.social-searcher.com/)
+Monitorea menciones públicas en redes sociales y la web en tiempo real.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `Reddit` `Información de Usuario` `Reconocimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Monitoreo, Búsqueda, Redes Sociales
 
 ---
 
-### 25. [TOUTATIS](https://pypi.org/project/toutatis/)
+### Twitter
 
-> Recupera información privada (teléfono, email, ID) de cuentas de Instagram vía API.
+#### [FOLLOWERWONK](https://followerwonk.com/)
+Encuentra cuentas de Twitter por biografía y proporciona análisis avanzados de seguidores.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🔴 Alto |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `Instagram` `Datos Privados` `API` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Descubrimiento, Búsqueda por Bio
 
 ---
-
-### 26. [LOOKUP-ID.COM](https://lookup-id.com/)
 
-> Encuentra el ID de Facebook de cualquier perfil o grupo.
+#### [SOCIALDATA API](https://socialdata.tools/)
+Alternativa no oficial a la API de Twitter para scraping de tweets históricos, perfiles y Spaces.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Facebook` `Búsqueda de ID` `Perfil` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, API, Scraping
 
 ---
 
-### 27. [DUMPITBLUE+](https://chromewebstore.google.com/detail/dumpitblue+/igmgknoioooacbcpcfgjigbaajpelbfe)
+#### [TWITTER VIDEO DOWNLOADER](https://twittervideodownloader.com/)
+Descarga videos y GIFs directamente desde tweets.
 
-> Extensión Chrome para volcar información de Facebook para análisis o reportes.
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Media, Descargador
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web (Chrome Extension) |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Facebook` `Extracción de Datos` `Análisis` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
-
-### 28. [STALKFACE](https://stalkface.com/en/)
 
-> Kit de herramientas de reconocimiento para perfiles de Facebook.
+#### [DOWNLOAD TWITTER DATA](https://www.twtdata.com/)
+Exporta datos de Twitter a CSV por usuario, keyword, hashtag, lista o Space.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Facebook` `Análisis de Perfil` `Reconocimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Exportación de Datos, Descargador
 
 ---
 
-### 29. [SEARCH IS BACK](https://searchisback.com/)
+#### [WAYBACK TWEETS](https://waybacktweets.streamlit.app/)
+Visualiza tweets archivados en Wayback Machine sin abrir cada enlace manualmente.
 
-> Busca personas y eventos en Facebook por ubicación, relaciones y más.
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Archivado, Wayback Machine
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Facebook` `Búsqueda` `Eventos` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
-
-### 30. [IMGINN.IO](https://imginn.io/)
 
-> Visualiza y descarga todo el contenido público de Instagram en un solo lugar.
+#### [MEMORY.LOL](https://memory.lol/app/)
+Información histórica sobre usuarios de Twitter: nombres anteriores, actividad, etc.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Instagram` `Descargador` `Media` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Datos Históricos, Usuario
 
 ---
 
-### 31. [INSTAHUNT](https://instahunt.huntintel.io/)
+#### [TINFOLEAK](https://tinfoleak.com/)
+Busca filtraciones e información expuesta de usuarios de Twitter.
 
-> Encuentra publicaciones de redes sociales relacionadas con una ubicación geográfica.
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Filtraciones, Reconocimiento
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Instagram` `Geolocalización` `Búsqueda` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 32. [RECRUITEM](https://recruitin.net/)
+#### [NETWORK TOOL](https://osome.iu.edu/tools/osomenet/)
+Explora cómo se propaga la información en Twitter con una red interactiva.
 
-> Crea cadenas booleanas de Google para buscar perfiles públicos en redes sociales.
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Análisis de Redes, Propagación
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `LinkedIn` `Reclutamiento` `Búsqueda Booleana` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
-
-### 33. [LINKEDIN SEARCH ENGINE](https://cse.google.com/cse?cx=daaf18e804f81bed0)
 
-> Motor de búsqueda programable de Google para perfiles de LinkedIn.
+#### [DELETED TWEET FINDER](https://cache.digitaldigging.org/)
+Busca tweets eliminados en múltiples servicios de archivo simultáneamente.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `LinkedIn` `Motor de Búsqueda` `Perfil` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Archivado, Tweets Eliminados
 
 ---
 
-### 34. [LINKEDIN SEARCH TOOL](https://inteltechniques.com/tools/Linkedin.html)
+#### [TWITONOMY](https://www.twitonomy.com/)
+Analíticas avanzadas de Twitter: estadísticas de cuenta, engagement, seguidores.
 
-> Interfaz multi-herramienta para investigaciones OSINT en LinkedIn.
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Insights, Analíticas
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `LinkedIn` `OSINT` `Herramientas` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 35. [WAYBACK TWEETS](https://waybacktweets.streamlit.app/)
+#### [FOLLER](https://foller.me/)
+Motor de búsqueda de personas: encuentra perfiles sociales, registros públicos y más.
 
-> Visualiza tweets archivados en Wayback Machine sin abrir cada enlace manualmente.
+**Riesgo:** 🟢 Bajo | **Tags:** Twitter, Búsqueda de Personas, Redes Sociales
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Archivado` `Wayback Machine` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 36. [MEMORY.LOL](https://memory.lol/app/)
+### Reddit
 
-> Información histórica sobre usuarios de Twitter: nombres anteriores, actividad, etc.
+#### [UNIVERSAL REDDIT SCRAPER (URS)](https://github.com/JosephLai241/URS)
+Scraping de datos de Reddit en Python para análisis masivo.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Datos Históricos` `Usuario` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Reddit, Análisis de Datos, Scraping
 
 ---
-
-### 37. [TINFOLEAK](https://tinfoleak.com/)
 
-> Busca filtraciones e información expuesta de usuarios de Twitter.
+#### [SOCID_EXTRACTOR](https://github.com/soxoj/socid-extractor)
+Extrae información de usuario de Reddit y otras redes sociales.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟠 Medio |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Filtraciones` `Reconocimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Información de Usuario, Reddit, Reconocimiento
 
 ---
 
-### 38. [NETWORK TOOL](https://osome.iu.edu/tools/osomenet/)
+#### [F5BOT](https://f5bot.com/)
+Recibe notificaciones por email cuando se publican posts de Reddit con tus palabras clave.
 
-> Explora cómo se propaga la información en Twitter con una red interactiva.
+**Riesgo:** 🟢 Bajo | **Tags:** Monitoreo, Reddit, Palabras Clave
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Análisis de Redes` `Propagación` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
+
+#### [MOSTLY HARMLESS](https://kerrick.github.io/Mostly-Harmless/#features)
+Suite de herramientas Reddit: análisis de usuario, comparación de subreddits y más.
+
+**Riesgo:** 🟢 Bajo | **Tags:** Análisis de Usuario, Reddit, Subreddits
 
-### 39. [AIRTABLE](https://airtable.com/appyDhNeSetZU0rIw/shrceHfvukijgln9q/tblxgilU0SzfXNEwS/viwde4ACDDOpeJ8aO)
+---
 
-> Directorio colaborativo con múltiples herramientas OSINT organizadas en tabla.
+#### [RDDDECK](https://rdddeck.com/)
+Panel de control en tiempo real para monitorear múltiples comunidades de Reddit.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `OSINT` `Directorio` `Multi-herramienta` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Dashboard, Monitoreo, Reddit
 
 ---
+
+#### [REDDIT ARCHIVE](https://www.redditarchive.com/)
+Archivo histórico de publicaciones y comentarios de Reddit.
 
-### 40. [DELETED TWEET FINDER](https://cache.digitaldigging.org/)
+**Riesgo:** 🟢 Bajo | **Tags:** Datos Históricos, Archivado, Reddit
+
+---
 
-> Busca tweets eliminados en múltiples servicios de archivo simultáneamente.
+#### [REDDIT COMMENT SEARCH](https://redditcommentsearch.com/)
+Busca comentarios y conversaciones específicas en toda la red de Reddit.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Archivado` `Tweets Eliminados` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Reddit, Conversaciones, Búsqueda de Comentarios
 
 ---
 
-### 41. [TWITONOMY](https://www.twitonomy.com/)
+#### [REDDIT HACKS](https://github.com/EdOverflow/hacks)
+Colección de trucos y técnicas avanzadas para usuarios de Reddit.
 
-> Analíticas avanzadas de Twitter: estadísticas de cuenta, engagement, seguidores.
+**Riesgo:** 🟢 Bajo | **Tags:** Hacks, Reddit, Avanzado
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Analíticas` `Insights` |
-| 🗓️ Actualizado | 06/04/2025 |
+---
+
+#### [REDDIT SEARCH](https://realsrikar.github.io/reddit-search/)
+Herramientas para buscar y descubrir contenido en Reddit con filtros avanzados.
+
+**Riesgo:** 🟢 Bajo | **Tags:** Descubrimiento, Reddit, Búsqueda
 
 ---
 
-### 42. [DOWNALBUM](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok)
+#### [REDDIT STREAM](https://reddit-stream.com/)
+Transmisión en vivo de comentarios de Reddit para seguir discusiones en tiempo real.
+
+**Riesgo:** 🟢 Bajo | **Tags:** Live, Reddit, Comentarios
+
+---
 
-> Extensión Chrome para descargar álbumes completos de fotos de Pinterest y otras webs.
+#### [REDDIT USER ANALYSER](https://reddit-user-analyser.netlify.app/)
+Analiza y visualiza la actividad y comportamiento de usuarios de Reddit.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web (Chrome Extension) |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Pinterest` `Descargador` `Fotos` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Visualización, Análisis de Usuario, Reddit
 
 ---
 
-### 43. [PINGROUPIE](https://pingroupie.com/)
+#### [REDECTIVE](https://redective.com/)
+Investiga y analiza usuarios de Reddit basándose en su historial de publicaciones.
 
-> Meta-buscador de Pinterest: descubre tableros colaborativos, influencers y palabras clave.
+**Riesgo:** 🟢 Bajo | **Tags:** Análisis de Usuario, Reconocimiento, Reddit
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Pinterest` `Búsqueda` `Tableros` |
-| 🗓️ Actualizado | 06/04/2025 |
+---
+
+#### [REDITR](http://reditr.com/)
+Cliente de escritorio para Reddit con interfaz limpia e intuitiva.
+
+**Riesgo:** 🟢 Bajo | **Tags:** Navegación, Cliente de Escritorio, Reddit
 
 ---
 
-### 44. [F5BOT](https://f5bot.com/)
+#### [WISDOM OF REDDIT](https://wisdomofreddit.com/)
+Colección curada de las citas y comentarios más perspicaces de Reddit.
+
+**Riesgo:** 🟢 Bajo | **Tags:** Reddit, Curación, Citas
+
+---
 
-> Recibe notificaciones por email cuando se publican posts de Reddit con tus palabras clave.
+#### [REDDIT SHELL](https://redditshell.com/)
+Interfaz de línea de comandos para navegar e interactuar con Reddit.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Monitoreo` `Palabras Clave` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Navegación, CLI, Reddit
 
 ---
 
-### 45. [MOSTLY HARMLESS](https://kerrick.github.io/Mostly-Harmless/#features)
+### OSINT
 
-> Suite de herramientas Reddit: análisis de usuario, comparación de subreddits y más.
+#### [AIRTABLE](https://airtable.com/appyDhNeSetZU0rIw/shrceHfvukijgln9q/tblxgilU0SzfXNEwS/viwde4ACDDOpeJ8aO)
+Directorio colaborativo con múltiples herramientas OSINT organizadas en tabla.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Análisis de Usuario` `Subreddits` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Multi-herramienta, OSINT, Directorio
 
 ---
 
-### 46. [RDDDECK](https://rdddeck.com/)
+### Pinterest
 
-> Panel de control en tiempo real para monitorear múltiples comunidades de Reddit.
+#### [DOWNALBUM](https://chromewebstore.google.com/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok)
+Extensión Chrome para descargar álbumes completos de fotos de Pinterest y otras webs.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Monitoreo` `Dashboard` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Pinterest, Fotos, Descargador
 
 ---
 
-### 47. [REDDIT ARCHIVE](https://www.redditarchive.com/)
+#### [PINGROUPIE](https://pingroupie.com/)
+Meta-buscador de Pinterest: descubre tableros colaborativos, influencers y palabras clave.
 
-> Archivo histórico de publicaciones y comentarios de Reddit.
+**Riesgo:** 🟢 Bajo | **Tags:** Pinterest, Búsqueda, Tableros
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Archivado` `Datos Históricos` |
-| 🗓️ Actualizado | 06/04/2025 |
-
 ---
 
-### 48. [REDDIT COMMENT SEARCH](https://redditcommentsearch.com/)
+### OSINT General
 
-> Busca comentarios y conversaciones específicas en toda la red de Reddit.
+#### [bigbossbot](https://github.com/kitakitsune0x/bigbossbot)
+Panel de inteligencia en vivo autoalojado para seguimiento de conflictos, alertas, mercados y feeds de OSINT, con acceso opcional para invitados y soporte MCP para usuarios autenticados. Esta herramienta ofrece una plataforma integral para la recopilación y visualización de información en tiempo real.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Búsqueda de Comentarios` `Conversaciones` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟠 Medio | **Tags:** Inteligencia, OSINT, Seguimiento
 
 ---
+
+#### [huntkit](https://github.com/assafkip/huntkit)
+Kit de investigación para Claude Code que incluye gestión de casos, OSINT, técnicas analíticas estructuradas y captura de evidencia de cadena de custodia, junto con servidores MCP de inteligencia de amenazas empaquetados. Es una herramienta integral para investigación y análisis de seguridad
+
+**Riesgo:** 🟠 Medio | **Tags:** Investigación, OSINT, Seguridad
 
-### 49. [REDDIT HACKS](https://github.com/EdOverflow/hacks)
+---
 
-> Colección de trucos y técnicas avanzadas para usuarios de Reddit.
+#### [KUMO-Domain-Recon-Tool](https://github.com/karim852/KUMO-Domain-Recon-Tool)
+Kumo es un marco de trabajo de reconocimiento de seguridad y OSINT para dominios. Al introducir un dominio, ofrece información en tiempo real a través de 21 módulos paralelos, incluyendo DNS, puertos abiertos, credenciales filtradas y más.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | Open Source |
-| 🏷️ Tags | `Reddit` `Hacks` `Avanzado` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟠 Medio | **Tags:** Reconocimiento, Dominios, OSINT
 
 ---
+
+#### [DocHunt](https://github.com/Sentrak/DocHunt)
+Revela los datos ocultos en tus archivos. Es de código abierto, rápida y amigable con la privacidad.
+
+**Riesgo:** 🟢 Bajo | **Tags:** Análisis de archivos, Información oculta, Privacidad
 
-### 50. [REDDIT SEARCH](https://realsrikar.github.io/reddit-search/)
+---
 
-> Herramientas para buscar y descubrir contenido en Reddit con filtros avanzados.
+#### [awesome-lead-generation](https://github.com/adops-tool/awesome-lead-generation)
+Directorio curado de herramientas para la generación de leads, enriquecimiento de datos, alcance en frío y escucha social. Descubre la pila de crecimiento moderna para automatizar procesos de ventas, verificar correos electrónicos y analizar la intención del cliente.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Búsqueda` `Descubrimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟠 Medio | **Tags:** Generación de leads, Enriquecimiento de datos, Automatización de ventas
 
 ---
+
+#### [WP-Dex](https://github.com/DotX-47/WP-Dex)
+WP-Dex es una herramienta de reconocimiento pasivo avanzada para sitios web de WordPress, diseñada para la auditoría de seguridad y la recopilación de inteligencia. Extrae información detallada sobre sitios web de WordPress sin realizar explotación o modificación.
+
+**Riesgo:** 🟠 Medio | **Tags:** WordPress, Reconocimiento, Auditoria
 
-### 51. [REDDIT STREAM](https://reddit-stream.com/)
+---
 
-> Transmisión en vivo de comentarios de Reddit para seguir discusiones en tiempo real.
+#### [cekresi.js](https://github.com/adjisoft/cekresi.js)
+Herramienta para verificar el estado de pedidos de paquetería en tiendas en línea de Indonesia. Permite a los usuarios rastrear el progreso de sus envíos de manera eficiente.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Live` `Comentarios` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** rastreo, paqueteria, indonesia
 
 ---
+
+#### [Google-Play-Store-Scraper](https://github.com/OstinUA/Google-Play-Store-Scraper)
+Herramienta de extracción de metadatos de desarrolladores de la Google Play Store a gran escala, con procesamiento de URL por lotes y API resiliente. Permite analizar el mercado Android de forma eficiente.
 
-### 52. [REDDIT USER ANALYSER](https://reddit-user-analyser.netlify.app/)
+**Riesgo:** 🟠 Medio | **Tags:** Scraper, GooglePlay, Metadatos
+
+---
 
-> Analiza y visualiza la actividad y comportamiento de usuarios de Reddit.
+#### [beatrooter](https://github.com/0xthearchitect/beatrooter)
+Esta herramienta permite a los usuarios interactuar con raíces de forma eficiente. Ayuda a aquellos interesados en dominar y explorar las raíces de los sistemas.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Análisis de Usuario` `Visualización` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟠 Medio | **Tags:** raíces, exploración, seguridad
 
 ---
 
-### 53. [REDECTIVE](https://redective.com/)
+#### [osint-username-search](https://github.com/ozcelikcalgan5169/osint-username-search)
+Herramienta de inteligencia de código abierto para buscar disponibilidad de nombres de usuario y investigación de identidad digital de forma rápida y asíncrona. Permite verificar nombres de marca en más de 50 plataformas utilizando Python y Asyncio.
 
-> Investiga y analiza usuarios de Reddit basándose en su historial de publicaciones.
+**Riesgo:** 🟠 Medio | **Tags:** OSINT, Búsqueda, IdentidadDigital
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Análisis de Usuario` `Reconocimiento` |
-| 🗓️ Actualizado | 06/04/2025 |
+---
+
+#### [epstein-files](https://github.com/wehale/epstein-files)
+Script para descargar la colección completa de documentos públicamente disponibles relacionados con Epstein/Maxwell de fuentes gubernamentales públicas. El script es la colección en sí mismo, sin almacenar PDFs.
+
+**Riesgo:** 🟢 Bajo | **Tags:** Investigacion, Documentos, OSINT
 
 ---
 
-### 54. [REDITR](http://reditr.com/)
+#### [DorkSINT](https://github.com/DiggityDooo/DorkSINT)
+DorkSINT es una herramienta de línea de comandos de Python de código abierto que acelera el uso de Google dorking convirtiendo el objetivo de búsqueda en consultas estructuradas y listas para pegar. Está diseñada para investigaciones de seguridad legales y autorizadas.
+
+**Riesgo:** 🟠 Medio | **Tags:** Búsqueda, OSINT, Dorking
+
+---
 
-> Cliente de escritorio para Reddit con interfaz limpia e intuitiva.
+#### [th3lazyst4lker](https://github.com/MrMisterGD/th3lazyst4lker)
+La herramienta de OSINT para el investigador perezoso, la mejor herramienta integral para determinar 'qué es esto' que podrás encontrar. Proporciona una solución para investigadores que buscan información de manera eficiente.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Cliente de Escritorio` `Navegación` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟠 Medio | **Tags:** Investigacion, OSINT, Herramienta
 
 ---
 
-### 55. [WISDOM OF REDDIT](https://wisdomofreddit.com/)
+#### [FaceTracker-Pro](https://github.com/waleedshamhan2050-sys/FaceTracker-Pro)
+Herramienta de OSINT avanzada para encontrar cuentas de redes sociales utilizando reconocimiento facial. Es una herramienta que facilita la búsqueda de perfiles en diferentes plataformas sociales.
 
-> Colección curada de las citas y comentarios más perspicaces de Reddit.
+**Riesgo:** 🟠 Medio | **Tags:** ReconocimientoFacial, OSINT, Ciberseguridad
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Reddit` `Citas` `Curación` |
-| 🗓️ Actualizado | 06/04/2025 |
+---
+
+#### [SubHunterX](https://github.com/diroxpatron12/SubHunterX)
+Descubre subdominios rápidamente con SubHunterX, una herramienta de Python para enumeración y reconocimiento que utiliza más de 47 fuentes de datos. Está diseñada para realizar búsquedas eficientes y exhaustivas en un entorno de red.
+
+**Riesgo:** 🟠 Medio | **Tags:** subdominios, enumeración, reconocimiento
 
 ---
 
-### 56. [FOLLER](https://foller.me/)
+#### [WhiteSINT](https://github.com/no0xpy/WhiteSINT)
+Herramienta de inteligencia de código abierto para uso de sombrero blanco, escrita en Python. Proporciona diversas funcionalidades para la recopilación y análisis de información
 
-> Motor de búsqueda de personas: encuentra perfiles sociales, registros públicos y más.
+**Riesgo:** 🟠 Medio | **Tags:** Inteligencia, OSINT, Seguridad
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `Twitter` `Búsqueda de Personas` `Redes Sociales` |
-| 🗓️ Actualizado | 06/04/2025 |
+---
+
+#### [Image-OSINT-Extractor](https://github.com/ArsalanKhan-76/Image-OSINT-Extractor)
+Herramienta de análisis de imágenes OSINT que utiliza ExifTool para extraer metadatos, texto y detalles ocultos de archivos de imagen, incluyendo soporte para formato HEIC. Ayuda a obtener información detallada de imágenes para investigación y análisis.
 
+**Riesgo:** 🟢 Bajo | **Tags:** Análisis de Imágenes, OSINT, ExifTool
+
 ---
+
+#### [ShadowTrace](https://github.com/nazhickorkmaz/ShadowTrace)
+Herramienta de inteligencia de metadatos y forensia digital que analiza datos EXIF ocultos y coordenadas GPS de imágenes. Permite obtener información detallada de las imágenes para fines de investigación y análisis.
 
-### 57. [INTELLIGENCE X LINKEDIN](https://intelx.io/tools?tab=linkedin)
+**Riesgo:** 🟢 Bajo | **Tags:** Forensia, Metadatos, Inteligencia
 
-> Herramienta web para búsqueda avanzada de personas y perfiles en LinkedIn.
+---
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `LinkedIn` `Búsqueda` `Perfil` |
-| 🗓️ Actualizado | 06/04/2025 |
+#### [REGAT](https://github.com/cybxrghoul/REGAT)
+Herramienta de automatización de reconocimiento basada en Python para evaluaciones de seguridad de aplicaciones web autorizadas, que incluye funcionalidades como DNS, headers, SSL, puntos finales, fuzzing y generación de informes.
 
+**Riesgo:** 🟠 Medio | **Tags:** automação, seguridad, reconocimiento
+
 ---
+
+#### [SecurityTellers](https://github.com/0xAlshalahi/SecurityTellers)
+Marco de trabajo de inteligencia de dominio e IP - Historial de IP, subdominios, inverso de IP, bypass de Cloudflare. Permite la recopilación y análisis de información de seguridad en línea.
 
-### 58. [FIND GITHUB USER ID](https://caius.github.io/github_id/)
+**Riesgo:** 🟠 Medio | **Tags:** InteligenciaIP, OSINT, SeguridadEnLinea
 
-> Encuentra el ID único de un usuario de GitHub para investigación en repositorios.
+---
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `GitHub` `ID de Usuario` `Repositorio` |
-| 🗓️ Actualizado | 06/04/2025 |
+#### [app.cybai.re](https://github.com/cletqui/app.cybai.re)
+Herramienta multifuncional de ciberseguridad para diversas tareas de análisis y seguridad en línea. Ofrece funcionalidades variadas para la evaluación de la seguridad de sistemas y redes.
 
+**Riesgo:** 🟠 Medio | **Tags:** Ciberseguridad, Análisis, Herramienta
+
 ---
+
+#### [galileoff-Dorkful](https://github.com/galile0ff/galileoff-Dorkful)
+Esta herramienta automatiza los pasos de inteligencia de código abierto y recopilación de información, generando consultas de Google Dork basadas en la entrada del usuario. Estándariza el proceso manual de recopilación de datos para hacer que las investigaciones de seguridad sean más rápidas y eficientes.
 
-### 59. [FREE PEOPLE SEARCH TOOL](https://freepeoplesearchtool.com/)
+**Riesgo:** 🟠 Medio | **Tags:** OSINT, Dorkful, Investigación
 
-> Herramienta web para localizar personas en redes sociales y registros públicos.
+---
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Web |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | GUI |
-| 🏷️ Tags | `LinkedIn` `Búsqueda de Personas` `Online` |
-| 🗓️ Actualizado | 06/04/2025 |
+#### [michigan-osint-bgcheck](https://github.com/Alteratiion/michigan-osint-bgcheck)
+Automatización de verificación de antecedentes de Ohio abierta y de código abierto (nombre + estado → registros públicos). Esta herramienta ofrece una forma eficiente de obtener información pública.
 
+**Riesgo:** 🟠 Medio | **Tags:** OSINT, Verificación, RegistrosPúblicos
+
 ---
+
+#### [NullTrace](https://github.com/femoralthings/NullTrace)
+Herramienta de esteganografía multiportadora que oculta payloads cifrados en varios formatos de archivo, incluyendo PNG, JPEG, WAV, PDF, ZIP, texto y flujos NTFS. Incluye un motor de detección ciega.
 
-### 60. [REDDIT SHELL](https://redditshell.com/)
+**Riesgo:** 🟠 Medio | **Tags:** esteganografia, seguridad, criptografia
 
-> Interfaz de línea de comandos para navegar e interactuar con Reddit.
+---
+
+#### [pdf_link_extractor](https://github.com/Illusion6984/pdf_link_extractor)
+Extrae todos los enlaces de un archivo PDF. Esta herramienta es útil para analizar y procesar documentos electrónicos de forma eficiente.
 
-| Campo | Valor |
-|---|---|
-| 🖥️ Plataformas | Linux · Windows · macOS |
-| ⚠️ Riesgo | 🟢 Bajo |
-| 🔓 Tipo | CLI |
-| 🏷️ Tags | `Reddit` `CLI` `Navegación` |
-| 🗓️ Actualizado | 06/04/2025 |
+**Riesgo:** 🟢 Bajo | **Tags:** Extractor, PDF, Enlaces
 
 ---
 
-## 🤝 Contribuir
+### Otros
 
-Este proyecto vive gracias a la comunidad. Puedes ayudar de tres formas:
+#### [password-tools](https://github.com/cybs-joe/password-tools)
+Herramienta para la gestión y el análisis de contraseñas, diseñada para ayudar en la seguridad informática. Puedes utilizarla para diversas tareas relacionadas con la autenticación y la protección de cuentas.
 
-- 🐛 **Reportar** información desactualizada → abre una **Issue**
-- ➕ **Añadir** herramientas nuevas → envía un **Pull Request**
-- 🛡️ **Moderar** contenido existente → contacta directamente
+**Riesgo:** 🟠 Medio | **Tags:** Seguridad, Autenticación, Contraseñas
+
+---
 
-> Toda contribución es bienvenida, sin importar el tamaño.
