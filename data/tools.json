@@ -1238,5 +1238,18 @@
       "SeguridadEnLinea"
     ],
     "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 94,
+    "nombre": "StoriesIG",
+    "url": "https://storiesig.info/es/",
+    "descripcion": "Esta herramienta permite a los usuarios ver y descargar historias de Instagram de forma anónima, sin dejar rastro ni necesidad de tener una cuenta. Ofrece una forma discreta de acceder a contenido temporal de Instagram.",
+    "categoria": "Instagram",
+    "tags": [
+      "Instagram",
+      "Anonimato",
+      "Historias"
+    ],
+    "fecha_agregado": "2026-04-19"
   }
 ]
