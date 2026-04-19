@@ -1225,5 +1225,18 @@
       "OSINT"
     ],
     "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 93,
+    "nombre": "Digital Footprint Check",
+    "url": "https://www.digitalfootprintcheck.com/",
+    "descripcion": "Herramienta en línea para verificar el rastro digital personal, permitiendo a los usuarios examinar su presencia en la red y comprender cómo su información está expuesta en línea. Ayuda a identificar posibles vulnerabilidades y a mejorar la privacidad en la web.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Privacidad",
+      "RastroDigital",
+      "SeguridadEnLinea"
+    ],
+    "fecha_agregado": "2026-04-19"
   }
 ]
