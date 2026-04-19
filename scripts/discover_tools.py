@@ -56,10 +56,51 @@ Colección centralizada de herramientas para investigadores y profesionales de l
         f.write(content)
 
 def search_new_tools():
-    """Lógica de búsqueda (GitHub, Reddit, RSS) - Simplificada para el ejemplo"""
-    # ... (Aquí iría la lógica de requests.get a GitHub Search y RSS feeds)
-    # Por ahora devolvemos una lista vacía para no fallar sin API Key
-    return []
+    """Lógica de búsqueda real en GitHub, Reddit y RSS."""
+    new_findings = []
+    
+    # 1. Búsqueda en GitHub (Tópico OSINT)
+    try:
+        from datetime import datetime, timedelta
+        date_filter = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
+        gh_url = f"https://api.github.com/search/repositories?q=topic:osint+created:>{date_filter}&sort=stars"
+        headers = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
+        resp = requests.get(gh_url, headers=headers)
+        if resp.status_code == 200:
+            for item in resp.json().get('items', []):
+                new_findings.append({
+                    'name': item['name'],
+                    'url': item['html_url'],
+                    'description': item['description'] or ""
+                })
+    except Exception as e:
+        print(f"Error GitHub: {e}")
+
+    # 2. Búsqueda en Reddit (r/osinttools)
+    try:
+        feed = feedparser.parse("https://www.reddit.com/r/osinttools/.rss")
+        for entry in feed.entries:
+            new_findings.append({
+                'name': entry.title,
+                'url': entry.link,
+                'description': entry.summary[:200]
+            })
+    except Exception as e:
+        print(f"Error Reddit: {e}")
+
+    # 3. RSS Jake Creps (Newsletter)
+    try:
+        feed = feedparser.parse("https://jakecreps.com/feed/")
+        for entry in feed.entries[:5]:
+            new_findings.append({
+                'name': entry.title,
+                'url': entry.link,
+                'description': entry.summary[:200]
+            })
+    except Exception as e:
+        print(f"Error Newsletter: {e}")
+        
+    return new_findings
 
 def main():
     if not GROQ_API_KEY:
