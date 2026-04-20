@@ -1251,5 +1251,57 @@
       "Historias"
     ],
     "fecha_agregado": "2026-04-19"
+  },
+  {
+    "id": 95,
+    "nombre": "stripe-inspector",
+    "url": "https://github.com/Macky9285/stripe-inspector",
+    "descripcion": "Esta herramienta inspecta claves de API de Stripe para investigaciones, enumera secretos y revisa datos de cuenta con un enfoque en seguridad. Es una herramienta enfocada en la seguridad para analizar y revisar información relacionada con Stripe de manera efectiva.",
+    "categoria": "OSINT General",
+    "tags": [
+      "seguridad",
+      "Stripe",
+      "API"
+    ],
+    "fecha_agregado": "2026-04-20"
+  },
+  {
+    "id": 96,
+    "nombre": "Firmware-Foundry",
+    "url": "https://github.com/KYLIAN71/Firmware-Foundry",
+    "descripcion": "Kit de automatización de seguridad definitivo 2026 - Herramientas de construcción de software Pro. Esta herramienta ofrece una solución integral para la automatización de tareas de seguridad.",
+    "categoria": "GitHub",
+    "tags": [
+      "Automatizacion",
+      "Seguridad",
+      "HerramientaPro"
+    ],
+    "fecha_agregado": "2026-04-20"
+  },
+  {
+    "id": 97,
+    "nombre": "osint-entity-mapper",
+    "url": "https://github.com/Hitansh1601/osint-entity-mapper",
+    "descripcion": "Herramienta automática de OSINT que recopila inteligencia de dominio de 5 fuentes públicas y modela relaciones de entidades en Neo4j. Esta herramienta es útil para analizar y visualizar información de entidades en línea de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia de Dominio",
+      "OSINT",
+      "Análisis de Entidades"
+    ],
+    "fecha_agregado": "2026-04-20"
+  },
+  {
+    "id": 98,
+    "nombre": "blue-team-labs",
+    "url": "https://github.com/sonyahack1/blue-team-labs",
+    "descripcion": "Este repositorio contiene simulaciones de laboratorios de equipo azul enfocados en análisis y investigación de seguridad. Ofrece un conjunto de recursos prácticos para el análisis de seguridad",
+    "categoria": "OSINT General",
+    "tags": [
+      "Seguridad",
+      "Análisis",
+      "EquipoAzul"
+    ],
+    "fecha_agregado": "2026-04-20"
   }
 ]
