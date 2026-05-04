@@ -1706,5 +1706,395 @@
       "Ciberseguridad"
     ],
     "fecha_agregado": "2026-04-27"
+  },
+  {
+    "id": 130,
+    "nombre": "WhoCord",
+    "url": "https://github.com/Siv-nick/WhoCord",
+    "descripcion": "Analiza enlaces de Discord en servidores mutuos para extraer perfiles, realiza cruzamiento de información en más de 700 sitios y herramientas, y genera un informe impulsado por inteligencia artificial. Esta herramienta busca y compara nombres de usuario en más de 30 herramientas diferentes.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Discord",
+      "Análisis",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 131,
+    "nombre": "Scraper",
+    "url": "https://github.com/phantomx39/Scraper",
+    "descripcion": "Una aplicación de inteligencia robusta y local para extraer y analizar datos de la Dark Web. Ofrece una solución eficaz para obtener información valiosa de fuentes no convencionales.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia",
+      "DarkWeb",
+      "Análisis"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 132,
+    "nombre": "VisorRAG",
+    "url": "https://github.com/Nicholas-Kloster/VisorRAG",
+    "descripcion": "Herramienta de reconocimiento de inteligencia basada en CLI que combina 6 herramientas en vivo con sandbox en gVisor. Esta herramienta proporciona una solución integral para la recopilación y análisis de información",
+    "categoria": "OSINT General",
+    "tags": [
+      "Reconocimiento",
+      "Inteligencia",
+      "Ciberseguridad"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 133,
+    "nombre": "Zhetikal_OSINT_tracker",
+    "url": "https://github.com/CyberZ7/Zhetikal_OSINT_tracker",
+    "descripcion": "Herramienta de investigación numérica y ciberseguridad. Creada por un experto en OPSEC y protección de menores en línea.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Investigación",
+      "Ciberseguridad",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 134,
+    "nombre": "TraceRecon",
+    "url": "https://github.com/PRATHAM777P/TraceRecon",
+    "descripcion": "Kit de herramientas de línea de comandos basado en Python para inteligencia de código abierto (OSINT) y reconocimiento de redes que combina seguimiento de IP, análisis de DNS, caza de nombres de usuario y más en una interfaz interactiva única. Esta herramienta ofrece una solución integrada para diversas necesidades de OSINT y reconocimiento de redes.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Reconocimiento",
+      "OSINT",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 135,
+    "nombre": "OSINT-Profiler",
+    "url": "https://github.com/jerald-6/OSINT-Profiler",
+    "descripcion": "OSINT Profiler es una potente herramienta de investigación de inteligencia abierta que permite investigar correos electrónicos, teléfonos y nombres de usuario con interfaz gráfica y de línea de comandos, puntuación de confianza y generación de informes en múltiples formatos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Investigación",
+      "Inteligencia Abierta",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 136,
+    "nombre": "VisorGraph",
+    "url": "https://github.com/Nicholas-Kloster/VisorGraph",
+    "descripcion": "Motor de reconocimiento de seguridad y mapeo de infraestructura de alto rendimiento con capacidad de sandboxing nativa gVisor y integración con la base de datos de vulnerabilidades Go Vuln DB. Esta herramienta ofrece una solución integral para analizar y visualizar infraestructuras de manera segura y eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "seguridad",
+      "mapeo",
+      "reconocimiento"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 137,
+    "nombre": "huntova-public",
+    "url": "https://github.com/enzostrano/huntova-public",
+    "descripcion": "Encuentra a tus próximos 100 clientes desde la línea de comandos. Agente de generación de leads de código abierto que funciona de forma local, sin suscripción, y mantiene tu clave de AI en tu máquina.",
+    "categoria": "OSINT General",
+    "tags": [
+      "generación de leads",
+      "inteligencia artificial",
+      "búsqueda de clientes"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 138,
+    "nombre": "PassiveRecon-Aggregator",
+    "url": "https://github.com/konswe/PassiveRecon-Aggregator",
+    "descripcion": "Herramienta de descubrimiento de activos pasiva para mapear perímetros de TI externos. Agrega datos de APIs públicas para proporcionar visibilidad sobre subdominios que se enfrentan al público, servicios de red activos y posibles exposiciones de datos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Reconocimiento pasivo",
+      "Descubrimiento de activos",
+      "Ciberseguridad"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 139,
+    "nombre": "trend-engine",
+    "url": "https://github.com/rthaithem/trend-engine",
+    "descripcion": "Trend Engine es un panel de inteligencia de código abierto avanzado diseñado para operativos de campo, investigadores de OSINT y agencias anticorrupción. Monitorea tendencias globales, identifica fabricaciones y proporciona conocimientos útiles.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Monitoreo",
+      "Inteligencia",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 140,
+    "nombre": "VisorSD",
+    "url": "https://github.com/Nicholas-Kloster/VisorSD",
+    "descripcion": "Herramienta de escaneo de exposición de Shodan y kit de pruebas de seguridad RAG adversarial. Esta herramienta ayuda a identificar vulnerabilidades en la seguridad de los sistemas y redes.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Seguridad",
+      "Análisis",
+      "Vulnerabilidades"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 141,
+    "nombre": "VisorLog",
+    "url": "https://github.com/Nicholas-Kloster/VisorLog",
+    "descripcion": "Registro de hallazgos de NuClide normalizado ECS, con seguimiento de ciclo de vida y almacenamiento solo de SQLite para infraestructura de OSINT de inteligencia artificial. Es una herramienta de código abierto diseñada para almacenar y gestionar hallazgos de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia Artificial",
+      "OSINT",
+      "Base de Datos"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 142,
+    "nombre": "HR-Workflow-AutomationAI",
+    "url": "https://github.com/nar0ka/HR-Workflow-AutomationAI",
+    "descripcion": "Ecosistema de reclutamiento de inteligencia artificial de extremo a extremo en n8n. Ofrece puntuación automática de currículums, verificación de antecedentes y un bucle de autooptimización autónomo.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Recruiting",
+      "Automatización",
+      "InteligenciaArtificial"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 143,
+    "nombre": "SecTool-Pro",
+    "url": "https://github.com/Alt21one/SecTool-Pro",
+    "descripcion": "Panel de seguridad de Python multifuncional que incluye análisis de paquetes en tiempo real, escaneo de malware en línea y fuera de línea, validación de correos electrónicos OSINT y mapeo de redes interactivo. Ofrece una variedad de herramientas de seguridad en una sola plataforma",
+    "categoria": "OSINT General",
+    "tags": [
+      "Seguridad",
+      "Análisis",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 144,
+    "nombre": "Gemini-26",
+    "url": "https://github.com/jerry7281/Gemini-26",
+    "descripcion": "Accede al modelo de inteligencia artificial Gemini Pro directamente desde tu escritorio para un razonamiento y resolución de problemas rápidos y eficientes sin costos ocultos. Esta herramienta ofrece una forma directa de aprovechar la capacidad del modelo de IA",
+    "categoria": "GitHub",
+    "tags": [
+      "InteligenciaArtificial",
+      "HerramientaDesktop",
+      "ModeloGeminiPro"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 145,
+    "nombre": "JAXEN",
+    "url": "https://github.com/Nicholas-Kloster/JAXEN",
+    "descripcion": "JAXEN es un marco de reconocimiento estatal basado en Go diseñado para cartografiar superficies de ataque empresarial modernas. Está especializado en la búsqueda de infraestructuras de inteligencia artificial, enumeración de puertas de enlace empresariales y forensicos de certificados TLS.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Reconocimiento",
+      "Seguridad",
+      "Ciberinteligencia"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 146,
+    "nombre": "NetSpecter",
+    "url": "https://github.com/s-r-e-e-r-a-j/NetSpecter",
+    "descripcion": "NetSpecter es un motor de reconocimiento y OSINT asíncrono ligero pero potente construido en Python. Está diseñado para realizar tareas de inteligencia y reconocimiento de forma eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Reconocimiento",
+      "OSINT",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 147,
+    "nombre": "TAHRIX",
+    "url": "https://github.com/fikriaf/TAHRIX",
+    "descripcion": "Plataforma autónoma de investigación de blockchain que combina inteligencia artificial agente, redes neuronales de grafos y análisis de multi-cadena para detectar e investigar delitos basados en criptomonedas. Ayuda a identificar y analizar actividades ilícitas en blockchains",
+    "categoria": "OSINT General",
+    "tags": [
+      "Blockchain",
+      "Criptomonedas",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 148,
+    "nombre": "wordpress-advanced-dorks",
+    "url": "https://github.com/Nobody-555-111/wordpress-advanced-dorks",
+    "descripcion": "Colección de dorks de Google avanzados para sitios WordPress que permiten encontrar información sensible, como archivos de configuración, volcados de bases de datos, registros de depuración, copias de seguridad expuestas, claves de API, etc., solo para pruebas de seguridad autorizadas.",
+    "categoria": "OSINT General",
+    "tags": [
+      "WordPress",
+      "Dorks",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 149,
+    "nombre": "NekoCheck",
+    "url": "https://github.com/Scoreverb70/NekoCheck",
+    "descripcion": "Detecta cuando NekoGram envía tus datos a su bot con un módulo LSPosed para rastrear disparadores de aplicaciones y filtraciones de datos. Esta herramienta ayuda a identificar posibles vulnerabilidades en la seguridad de la información.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Seguridad",
+      "Privacidad",
+      "Rastreo"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 150,
+    "nombre": "direnjie",
+    "url": "https://github.com/lurui1997/direnjie",
+    "descripcion": "Herramienta de detección de existencia de nombres de usuario en plataformas chinas. Permite verificar la disponibilidad de nombres de usuario en sitios web en idioma chino.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Detección",
+      "Nombres de usuario",
+      "Plataformas chinas"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 151,
+    "nombre": "Ghost-Recruiter-AI-",
+    "url": "https://github.com/nar0ka/Ghost-Recruiter-AI-",
+    "descripcion": "Ecosistema de reclutamiento integral basado en inteligencia artificial con función de evaluación automática de currículos y verificación de antecedentes. Ofrece un ciclo de autooptimización autónomo.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Reclutamiento",
+      "Inteligencia Artificial",
+      "Evaluación de Currículos"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 152,
+    "nombre": "Advanced-Google-Dork-Generator",
+    "url": "https://github.com/onurerkoc-dev/Advanced-Google-Dork-Generator",
+    "descripcion": "Generador automático de Google Dork para investigación de seguridad autorizada, caza de bugs y OSINT. Soporta 8 o más plataformas de CMS y genera automáticamente más de 660 palabras clave específicas de ciudad y país.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Herramienta OSINT",
+      "Google Dork",
+      "Investigación de Seguridad"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 153,
+    "nombre": "ultra-osint",
+    "url": "https://github.com/CeevitWonder/ultra-osint",
+    "descripcion": "Marco de inteligencia de OSINT profesional para la recopilación de información con detección de tecnologías multi-fuente, evaluación de vulnerabilidades y generación de informes estructurados. Ofrece una solución integral para la recolección y análisis de información en línea.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Inteligencia",
+      "Análisis"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 154,
+    "nombre": "VisorGoose",
+    "url": "https://github.com/Nicholas-Kloster/VisorGoose",
+    "descripcion": "Detección de infraestructura de inteligencia artificial multi-fuente para dominios de gobierno — Incluye logs de CT, Shodan, DNS y fingerprinting de Ollama con protección de VPN de Mullvad. Esta herramienta permite analizar y descubrir infraestructuras de inteligencia artificial en dominios gubernamentales de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia Artificial",
+      "Detección de Infraestructura",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 155,
+    "nombre": "AtlasTrace",
+    "url": "https://github.com/TOK4NF/AtlasTrace",
+    "descripcion": "AtlasTrace es una herramienta de código abierto para el trabajo de OSINT pasivo, que ofrece funcionalidades para la gestión de casos de investigación, captura de evidencia y correlación de fuentes. Permite realizar tareas como graficación de entidades, triage de documentos y medios, flujo de trabajo de archivo y verificación de violaciones de seguridad.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Investigación",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 156,
+    "nombre": "sanctioncheck",
+    "url": "https://github.com/twux-sec/sanctioncheck",
+    "descripcion": "Herramienta de detección de sanciones internacionales en línea de comandos para lists de sanciones de la UE, ONU, OFAC y DGT. Ayuda a identificar posibles violaciones de sanciones financieras.",
+    "categoria": "OSINT General",
+    "tags": [
+      "sanciones",
+      "OSINT",
+      "financiero"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 157,
+    "nombre": "SpyEyes",
+    "url": "https://github.com/Akxan/SpyEyes",
+    "descripcion": "SpyEyes es una herramienta integral de OSINT que ofrece funcionalidades para la búsqueda de información en línea, incluyendo búsquedas de IP, teléfonos, nombres de usuarios y más. La herramienta cuenta con una variedad de características avanzadas como escaneo recursivo y generación de variaciones de nombres de usuario.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Herramienta de búsqueda",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 158,
+    "nombre": "VisorPlus",
+    "url": "https://github.com/Nicholas-Kloster/VisorPlus",
+    "descripcion": "Infraestructura de inteligencia artificial y modelado de lenguaje unificado para búsqueda y evaluación de CLI, que orquesta JAXEN, VisorSD, VisorCorpus, BARE y aimap. Esta herramienta proporciona una solución integrada para tareas de ciberseguridad y análisis de infraestructura.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia Artificial",
+      "Ciberseguridad",
+      "Análisis de Infraestructura"
+    ],
+    "fecha_agregado": "2026-05-04"
+  },
+  {
+    "id": 159,
+    "nombre": "aiecosense",
+    "url": "https://github.com/indicaindependent/aiecosense",
+    "descripcion": "Inteligencia de justicia ambiental impulsada por IA, combinando tecnologías como Claude y Cloudflare Workers, con el fin de reemplazar EJScreen. Esta herramienta ofrece un enfoque innovador en el análisis y la visualización de datos ambientales.",
+    "categoria": "OSINT General",
+    "tags": [
+      "JusticiaAmbiental",
+      "InteligenciaAI",
+      "AnálisisAmbiental"
+    ],
+    "fecha_agregado": "2026-05-04"
   }
 ]
