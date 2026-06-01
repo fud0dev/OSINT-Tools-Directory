@@ -4176,5 +4176,655 @@
       "Reddit"
     ],
     "fecha_agregado": "2026-05-25"
+  },
+  {
+    "id": 320,
+    "nombre": "Gecko",
+    "url": "https://github.com/Otsolain/Gecko",
+    "descripcion": "Plataforma de reconocimiento y evaluación de seguridad con orquestador de etapas FastAPI, enrutamiento Tor y triage de inteligencia artificial multi-proveedor. Permite una interfaz web en vivo para una evaluación de seguridad rápida y eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "seguridad",
+      "reconocimiento",
+      "evaluación"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 321,
+    "nombre": "helix",
+    "url": "https://github.com/thalha-a9/helix",
+    "descripcion": "Helix es una herramienta avanzada de mapeo de identidad y relación asincrónica de inteligencia de código abierto (OSINT). Permite a los usuarios analizar y relacionar identidades de manera efectiva.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Mapeo",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 322,
+    "nombre": "HDN-ToolKit",
+    "url": "https://github.com/HasnainDarkNet/HDN-ToolKit",
+    "descripcion": "HDN Phish es una herramienta profesional de conciencia sobre ciberseguridad que cuenta con páginas de inicio de sesión realistas para varias plataformas. Está diseñada para pruebas de seguridad autorizadas ysimulate de entrenamiento de phishing.",
+    "categoria": "OSINT General",
+    "tags": [
+      "phishing",
+      "ciberseguridad",
+      "simulación"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 323,
+    "nombre": "sovereign-mac",
+    "url": "https://github.com/chrisvrakas/sovereign-mac",
+    "descripcion": "Herramienta de privacidad y seguridad para macOS — No confíe en Apple, verifique. Su máquina, sus reglas.",
+    "categoria": "Otros",
+    "tags": [
+      "Seguridad",
+      "Privacidad",
+      "macOS"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 324,
+    "nombre": "Anthropic-Cybersecurity-Skills-915",
+    "url": "https://github.com/superpeperzk2842-dotcom/Anthropic-Cybersecurity-Skills-915",
+    "descripcion": "756 habilidades de ciberseguridad estructuradas para agentes de inteligencia artificial, mapeadas en 5 marcos de trabajo. Funciona con diversas plataformas como Claude Code, GitHub Copilot y Codex CLI.",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "Inteligencia Artificial",
+      "Herramientas"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 325,
+    "nombre": "Anthropic-Cybersecurity-Skills-695",
+    "url": "https://github.com/System32manager/Anthropic-Cybersecurity-Skills-695",
+    "descripcion": "754 habilidades de ciberseguridad estructuradas para agentes de inteligencia artificial, mapeadas a 5 marcos de trabajo. Funciona con diversas plataformas y cumple con el estándar agentskills.io.",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "Inteligencia Artificial",
+      "Herramientas"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 326,
+    "nombre": "Anthropic-Cybersecurity-Skills-847",
+    "url": "https://github.com/System32manager/Anthropic-Cybersecurity-Skills-847",
+    "descripcion": "Herramienta de ciberseguridad con 754 habilidades estructuradas para agentes de inteligencia artificial, mapeadas a 5 marcos de referencia. Funciona con diversas plataformas y cumple con el estándar agentskills.io",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "Inteligencia Artificial",
+      "Herramientas de seguridad"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 327,
+    "nombre": "Anthropic-Cybersecurity-Skills-101",
+    "url": "https://github.com/FloatingFlowGod/Anthropic-Cybersecurity-Skills-101",
+    "descripcion": "756 habilidades de ciberseguridad estructuradas para agentes de inteligencia artificial, mapeadas a 5 marcos de trabajo, incluyendo MITRE ATT&CK, NIST CSF 2.0 y otros. Funciona con más de 20 plataformas de código y aprendizaje automático.",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "InteligenciaArtificial",
+      "SeguridadInformatica"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 328,
+    "nombre": "glaz_boga_besplatno",
+    "url": "https://github.com/osint-and-search/glaz_boga_besplatno",
+    "descripcion": "Ojo de Dios de forma gratuita, así como alternativas gratuitas del Ojo de Dios y servicios similares con funcionalidad gratuita. Ofrece una opción para acceder a funcionalidades avanzadas de forma gratuita.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Herramientas",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 329,
+    "nombre": "Anthropic-Cybersecurity-Skills-612",
+    "url": "https://github.com/superpeperzk2842-dotcom/Anthropic-Cybersecurity-Skills-612",
+    "descripcion": "Herramienta de ciberseguridad con 754 habilidades estructuradas para agentes de IA, mapeadas a 5 marcos de trabajo, compatible con varias plataformas. Ofrece estándares para agentskills.io y licencia Apache 2.0.",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "HabilidadesAI",
+      "SeguridadInformatica"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 330,
+    "nombre": "Anthropic-Cybersecurity-Skills-973",
+    "url": "https://github.com/Zzzgamingo/Anthropic-Cybersecurity-Skills-973",
+    "descripcion": "Herramienta de ciberseguridad con 754 habilidades estructuradas para agentes de inteligencia artificial, mapeadas a 5 marcos de trabajo. Funciona con varias plataformas, incluyendo Claude Code y GitHub Copilot, y cubre 26 dominios de seguridad.",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "InteligenciaArtificial",
+      "HerramientaGitHub"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 331,
+    "nombre": "Neshan-Maps-Scraper",
+    "url": "https://github.com/EhsanShahbazii/Neshan-Maps-Scraper",
+    "descripcion": "Potente herramienta de extracción de datos para Neshan.org, automatiza la extracción de leads y ubicaciones con múltiples formatos de exportación y perfiles de retraso inteligentes. Es una herramienta de scraping en Python",
+    "categoria": "OSINT General",
+    "tags": [
+      "Scraper",
+      "Neshan",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 332,
+    "nombre": "Anthropic-Cybersecurity-Skills-321",
+    "url": "https://github.com/System32manager/Anthropic-Cybersecurity-Skills-321",
+    "descripcion": "756 habilidades de ciberseguridad estructuradas para agentes de inteligencia artificial, mapeadas a 5 marcos de trabajo: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND y NIST AI RMF. Funciona con más de 20 plataformas, incluyendo Claude Code, GitHub Copilot, Codex CLI y Gemini CLI.",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "InteligenciaArtificial",
+      "HerramientasSeguridad"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 333,
+    "nombre": "Anthropic-Cybersecurity-Skills-448",
+    "url": "https://github.com/Zzzgamingo/Anthropic-Cybersecurity-Skills-448",
+    "descripcion": "Esta herramienta ofrece 754 habilidades de ciberseguridad estructuradas para agentes de inteligencia artificial, mapeadas a 5 marcos de trabajo reconocidos. Funciona con varias plataformas, incluyendo Claude Code y GitHub Copilot.",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "Inteligencia Artificial",
+      "Herramientas"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 334,
+    "nombre": "noimosiny-checker",
+    "url": "https://github.com/soxoj/noimosiny-checker",
+    "descripcion": "Búsqueda reversa de cuentas por número de teléfono, dirección de correo electrónico y nombre de usuario. La herramienta permite localizar información asociada a estos datos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Búsqueda",
+      "Osint",
+      "Privacidad"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 335,
+    "nombre": "Anthropic-Cybersecurity-Skills-708",
+    "url": "https://github.com/System32manager/Anthropic-Cybersecurity-Skills-708",
+    "descripcion": "756 habilidades de ciberseguridad estructuradas para agentes de inteligencia artificial, mapeadas a 5 marcos de trabajo: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND y NIST AI RMF. Funciona con diversas plataformas, incluyendo Claude Code, GitHub Copilot y más de 20 herramientas adicionales.",
+    "categoria": "GitHub",
+    "tags": [
+      "ciberseguridad",
+      "inteligencia artificial",
+      "herramientas de seguridad"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 336,
+    "nombre": "analogi_Glaza_Boga",
+    "url": "https://github.com/osint-and-search/analogi_Glaza_Boga",
+    "descripcion": "Alternativas y bots similares a Glaza Boga, una herramienta de búsqueda y análisis. Ofrece soluciones equivalentes y complementarias para necesidades específicas de inteligencia de código abierto.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Búsqueda",
+      "Inteligencia",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 337,
+    "nombre": "Anthropic-Cybersecurity-Skills-480",
+    "url": "https://github.com/Zzzgamingo/Anthropic-Cybersecurity-Skills-480",
+    "descripcion": "Herramienta que ofrece 754 habilidades de ciberseguridad estructuradas para agentes de inteligencia artificial, mapeadas a 5 marcos de referencia y compatible con más de 20 plataformas. Se enfoca en el desarrollo de habilidades de seguridad en 26 dominios de ciberseguridad.",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "Inteligencia Artificial",
+      "Herramientas de Seguridad"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 338,
+    "nombre": "intelhub",
+    "url": "https://github.com/petterobam/intelhub",
+    "descripcion": "Plataforma de inteligencia abierta que convierte la información de toda la red en inteligencia acciónnable. Ofrece una solución para procesar y analizar datos de diversas fuentes",
+    "categoria": "OSINT General",
+    "tags": [
+      "inteligencia",
+      "OSINT",
+      "análisis"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 339,
+    "nombre": "Anthropic-Cybersecurity-Skills-120",
+    "url": "https://github.com/superpeperzk2842-dotcom/Anthropic-Cybersecurity-Skills-120",
+    "descripcion": "Herramienta que proporciona 754 habilidades de ciberseguridad estructuradas para agentes de inteligencia artificial, mapeadas a 5 marcos de referencia. Funciona con diversas plataformas y tiene licencia Apache 2.0.",
+    "categoria": "GitHub",
+    "tags": [
+      "Ciberseguridad",
+      "HabilidadesIA",
+      "SeguridadInformatica"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 340,
+    "nombre": "OSINT_i_probiv_ICQ",
+    "url": "https://github.com/osint-and-search/OSINT_i_probiv_ICQ",
+    "descripcion": "Métodos de búsqueda de información en ICQ y herramientas de probiv. Esta herramienta ofrece métodos para buscar y analizar información en la red social ICQ.",
+    "categoria": "OSINT General",
+    "tags": [
+      "ICQ",
+      "OSINT",
+      "Búsqueda"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 341,
+    "nombre": "analogi_getcontact_dlya_poiska_kontaktov",
+    "url": "https://github.com/osint-and-search/analogi_getcontact_dlya_poiska_kontaktov",
+    "descripcion": "Alternativas a Getcontact, identificación de números de teléfono que llaman, visualización de etiquetas por número de teléfono y otros identificadores de números. Esta herramienta ofrece funcionalidades para el análisis de contactos telefónicos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "identificador",
+      "análisis_telefónico",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 342,
+    "nombre": "OSINT_i_probiv_po_email",
+    "url": "https://github.com/osint-and-search/OSINT_i_probiv_po_email",
+    "descripcion": "Herramienta de inteligencia de código abierto para la búsqueda de información por correo electrónico y herramientas de inteligencia de correo electrónico. Ofrece funcionalidades para realizar búsquedas avanzadas y obtener información relacionada con direcciones de correo electrónico.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia",
+      "Correo",
+      "Búsqueda"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 343,
+    "nombre": "OSINT_i_probiv_saita",
+    "url": "https://github.com/osint-and-search/OSINT_i_probiv_saita",
+    "descripcion": "Métodos de búsqueda de información sobre sitios web, análisis de sitios web y datos relacionados con sitios web. Esta herramienta proporciona técnicas para obtener información detallada sobre sitios web.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Análisis Web",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 344,
+    "nombre": "OSINT_i_probiv_Linkedin",
+    "url": "https://github.com/osint-and-search/OSINT_i_probiv_Linkedin",
+    "descripcion": "Búsqueda de información en LinkedIn y herramientas para recolectar datos. Esta herramienta es útil para investigaciones y análisis de inteligencia en la red profesional.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Inteligencia",
+      "Linkedin"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 345,
+    "nombre": "poisk_po_socsetam_i_messengeram",
+    "url": "https://github.com/osint-and-search/poisk_po_socsetam_i_messengeram",
+    "descripcion": "Herramientas de búsqueda de información en redes sociales y mensajerías, servicios de verificación de mensajerías y redes sociales. Ofrece funcionalidades para encontrar y analizar información en plataformas de comunicación en línea.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Búsqueda",
+      "Redes Sociales",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 346,
+    "nombre": "OSINT_i_probiv_po_IP",
+    "url": "https://github.com/osint-and-search/OSINT_i_probiv_po_IP",
+    "descripcion": "Herramienta para la búsqueda de información y reconocimiento de IP addresses, permite obtener datos relacionados con direcciones IP.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "IP",
+      "Reconocimiento"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 347,
+    "nombre": "OSINT_i_probiv_po_INN",
+    "url": "https://github.com/osint-and-search/OSINT_i_probiv_po_INN",
+    "descripcion": "Herramienta para búsqueda de datos por Número de Identificación Fiscal de empresarios y personas físicas. Permite la búsqueda de información relacionada con el número de identificación fiscal.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Búsqueda",
+      "Identificación",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 348,
+    "nombre": "OSINT_i_probiv_po_avto_i_nomeru",
+    "url": "https://github.com/osint-and-search/OSINT_i_probiv_po_avto_i_nomeru",
+    "descripcion": "Herramienta de búsqueda de información sobre vehículos mediante su número de identificación (VIN) y número de matrícula. Proporciona métodos para obtener datos sobre automóviles de manera efectiva.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Vehículos",
+      "Búsqueda"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 349,
+    "nombre": "OSINT_i_probiv_v_igrah-GAMEINT",
+    "url": "https://github.com/osint-and-search/OSINT_i_probiv_v_igrah-GAMEINT",
+    "descripcion": "La herramienta OSINT_i_probiv_v_igrah-GAMEINT se enfoca en la inteligencia de juegos y la búsqueda de información en la universo de los videojuegos. Ofrece capacidades para la inteligencia de juegos y la investigación en este ámbito.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia de Juegos",
+      "Búsqueda de Información",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 350,
+    "nombre": "How they work?",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tt75o2/how_they_work/",
+    "descripcion": "Estoy buscando información sobre cómo funcionan las herramientas de OSINT, ya que sé que tienen acceso a datos básicos de vulnerabilidades y datos públicos, pero necesito una descripción general. ",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Herramientas",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 351,
+    "nombre": "Osintgram",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tsw3r2/osintgram_problem/",
+    "descripcion": "Una herramienta de OSINT para recopilar información, diseñada para principiantes y desarrollada en un entorno de Kali Linux. Es utilizada para el análisis de información en redes sociales.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Herramienta",
+      "Información"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 352,
+    "nombre": "Using Internet Archive and Kronikier to find website contact info",
+    "url": "https://www.reddit.com/r/osinttools/comments/1ts8zcm/using_internet_archive_and_kronikier_to_find/",
+    "descripcion": "Herramienta para buscar información de contacto de sitios web utilizando Internet Archive y Kronikier. Permite encontrar información valiosa sobre sitios web a través de archivos y registros históricos.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Búsqueda",
+      "Contacto"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 353,
+    "nombre": "Solucionar este problema",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tsb740/how_to_solve_this_problem/",
+    "descripcion": "La herramienta se refiere a una publicación en Reddit que busca ayuda para solucionar un problema. La descripción original incluye una imagen y un enlace hacia la discusión en la comunidad de OSINT.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Herramientas",
+      "Ayuda"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 354,
+    "nombre": "Extensión de Chrome para surfacer datos públicos de perfiles de Reddit ocultos",
+    "url": "https://www.reddit.com/r/osinttools/comments/1trfrez/created_a_lightweight_chrome_extension_to_surface/",
+    "descripcion": "Se ha creado una extensión ligera de Chrome para exponer datos públicos de perfiles de Reddit ocultos, desarrollada por un estudiante de negocios y entusiasta de OSINT. Esta herramienta busca facilitar la detección de actores maliciosos en comunidades en línea.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Reddit",
+      "ExtensiónChrome"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 355,
+    "nombre": "Tool for email and contact osint",
+    "url": "https://www.reddit.com/r/osinttools/comments/1trfn9q/tool_for_email_and_contact_osint/",
+    "descripcion": "Herramienta de inteligencia de código abierto para investigar la presencia en línea de una persona utilizando su correo electrónico o número de teléfono. No requiere codificación ni pagos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Inteligencia",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 356,
+    "nombre": "Herramienta de monitoreo de exposición personal",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tre96r/how_realistic_is_it_to_build_my_own_osint_tools/",
+    "descripcion": "Estoy interesado en verificar dónde aparecen mis nombres de usuario, correos electrónicos, dominios y cuentas antiguas en línea, y luego organizar los resultados de manera fácil de revisar. Esto me permitiría monitorear mi presencia en línea de forma efectiva.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Monitoreo",
+      "Exposición",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 357,
+    "nombre": "OSINT Workflow Research Survey",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tqyip9/osint_workflow_research_survey/",
+    "descripcion": "Encuesta de investigación sobre flujos de trabajo de OSINT para recopilar información y mejorar técnicas. La herramienta busca comprender cómo los profesionales de la OSINT realizan su trabajo diario.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Investigación",
+      "Flujos de Trabajo"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 358,
+    "nombre": "Helix",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tpzipo/i_built_helix_an_advanced_osint_tool_identity/",
+    "descripcion": "Helix es una herramienta de OSINT avanzada que crea un mapa relacional de la huella digital de una persona, conectando sus perfiles en diferentes plataformas. Extrae enlaces biográficos y los representa como aristas en un gráfico.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia",
+      "OSINT",
+      "Análisis"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 359,
+    "nombre": "Herramienta de Reddit para discusión de herramientas OSINT",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tp8fv8/what_is_the_worst_program_youve_used_or_tested/",
+    "descripcion": "La herramienta busca conocer cuál ha sido la peor herramienta utilizada o probada por los usuarios en el pasado, analizando aspectos como actualizaciones defectuosas, interfaz de usuario y diseño.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Herramientas",
+      "Experiencias"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 360,
+    "nombre": "Another lesson on why we don't accept active investigation posts",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tp7ngl/another_lesson_on_why_we_dont_accept_active/",
+    "descripcion": "La tribu logra algo impresionante aquí, recordándonos que no somos héroes en un mundo de ficción.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Investigacion",
+      "RedesSociales"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 361,
+    "nombre": "Tinder Data Scrapper",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tol53r/found_tinder_data_scrapper_that_can_used_for/",
+    "descripcion": "Herramienta para recopilar información de Tinder que puede ser utilizada para OSINT y recopilación de información. Permite a los investigadores reunir datos valiosos de la aplicación de citas.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Recopilación",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 362,
+    "nombre": "OSINT Workflow Research Survey",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tp1v3q/osint_workflow_research_survey/",
+    "descripcion": "Encuesta de investigación sobre flujos de trabajo de OSINT. Esta herramienta se centra en la recopilación de información sobre los métodos y procedimientos utilizados en OSINT.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Investigación",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 363,
+    "nombre": "How to view private profiles on Facebook",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tozypp/how_to_view_private_profiles_on_facebook/",
+    "descripcion": "Necesito establecer una conexión entre algunas personas para un juicio importante sobre la terminación de los derechos parentales y estoy siendo acosado. Busco una herramienta para ver perfiles privados en Facebook.",
+    "categoria": "Facebook",
+    "tags": [
+      "PerfilesPrivados",
+      "FacebookOSINT",
+      "Investigacion"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 364,
+    "nombre": "AI geolocation tools are useful, but people need to stop treating them like proof",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tnv69u/ai_geolocation_tools_are_useful_but_people_need/",
+    "descripcion": "He estado probando varias herramientas de geolocalización de imágenes asistidas por IA y mi mayor conclusión es que son útiles, pero solo si se les trata como generadoras de pistas. Estas herramientas deben utilizarse con precaución y no como prueba definitiva.",
+    "categoria": "Reddit",
+    "tags": [
+      "Geolocalización",
+      "Herramientas de IA",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 365,
+    "nombre": "Fast OSS Rust + GPU secret scanner",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tnwfiw/fast_oss_rust_gpu_secret_scanner/",
+    "descripcion": "Escáner de secretos de código abierto en Rust con aceleración por GPU, diseñado para buscar secretos en proyectos de código abierto de forma rápida y eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "scanner",
+      "seguridad",
+      "GPU"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 366,
+    "nombre": "MailAccess v0.5",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tn4xf8/mailaccess_v05_breach_normalizer_xposedornot/",
+    "descripcion": "Herramienta para normalizar brechas de seguridad y deduplicación de datos, incluyendo funcionalidades de XposedOrNot y LeakCheck. Ayuda a identificar y categorizar señales de ataques de phishing y robo de información",
+    "categoria": "OSINT General",
+    "tags": [
+      "Seguridad",
+      "OSINT",
+      "Herramientas"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 367,
+    "nombre": "built a local tool to find mutual followers between two Instagram accounts",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tn6fnh/built_a_local_tool_to_find_mutual_followers/",
+    "descripcion": "Desarrollé una herramienta local para encontrar seguidores mutuos entre dos o más cuentas de Instagram, compatible con cuentas públicas y privadas. La herramienta requiere autorización para funcionar con cuentas privadas",
+    "categoria": "Instagram",
+    "tags": [
+      "Seguidores",
+      "Instagram",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 368,
+    "nombre": "Low cost data management platform",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tngsjm/low_cost_data_management_platform/",
+    "descripcion": "Plataforma de gestión de datos de bajo costo, diseñada para simplificar la administración de información. Esta herramienta ofrece soluciones para el manejo eficiente de datos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "gestion",
+      "datos",
+      "低成本"
+    ],
+    "fecha_agregado": "2026-06-01"
+  },
+  {
+    "id": 369,
+    "nombre": "Patch Notes",
+    "url": "https://www.reddit.com/r/osinttools/comments/1tn485i/patch_notes_weekly_update_250626_desktop_feed/",
+    "descripcion": "Herramienta de agregación de fuentes de alimentación para escritorio, con actualizaciones semanales. Permite recopilar y analizar información de fuentes variadas de manera eficiente.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Agregador",
+      "Información"
+    ],
+    "fecha_agregado": "2026-06-01"
   }
 ]
