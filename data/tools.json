@@ -8960,5 +8960,694 @@
       "Ciberfisico"
     ],
     "fecha_agregado": "2026-07-13"
+  },
+  {
+    "id": 688,
+    "nombre": "Telegram-OSINT-Toolkit",
+    "url": "https://github.com/AnuragRoy485/Telegram-OSINT-Toolkit",
+    "descripcion": "Herramienta de inteligencia OSINT de alta gama para Telegram, construida con Telethon, que permite búsqueda de palabras clave en masa, exportación de chats, enumeración de miembros, soporte para proxy/Tor y SQLite. Diseñada para trabajar en ciberseguridad e inteligencia.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Telegram",
+      "Ciberseguridad"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 689,
+    "nombre": "tornado-demix",
+    "url": "https://github.com/prettydeath/tornado-demix",
+    "descripcion": "Herramienta para desmezclar fondos en Tornado.Cash (ETH) mediante correlación de cantidad y temporización. Esta herramienta ayuda a identificar y analizar transacciones sospechosas en la red Ethereum.",
+    "categoria": "OSINT General",
+    "tags": [
+      "desmezcla",
+      "ethereum",
+      "análisis"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 690,
+    "nombre": "UsersCatch-Telegram-Sniper",
+    "url": "https://github.com/akywaa/UsersCatch-Telegram-Sniper",
+    "descripcion": "Herramienta avanzada para Telegram que permite generar, evaluar y adquirir nombres de usuario premium, además de ofrecer análisis de mercado de fragmentos y análisis de OSINT de billeteras. Ofrece funcionalidades integrales para el aprovechamiento de recursos en la plataforma de Telegram.",
+    "categoria": "Otros",
+    "tags": [
+      "Telegram",
+      "OSINT",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 691,
+    "nombre": "recon-modular",
+    "url": "https://github.com/Ali-hey-0/recon-modular",
+    "descripcion": "Marco de reconocimiento impulsado por inteligencia artificial que une más de 130 herramientas de seguridad para realizar tareas como enumeración de subdominios, escaneo de vulnerabilidades y monitoreo de la dark web. Está diseñado para pruebas de penetración, equipos rojos y DevSecOps.",
+    "categoria": "OSINT General",
+    "tags": [
+      "reconocimiento",
+      "seguridad",
+      "herramienta"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 692,
+    "nombre": "nik-checker",
+    "url": "https://github.com/andikaputradev/nik-checker",
+    "descripcion": " Verificador de NIK Premium: Aplicación de línea de comandos para la validación, parsing y seguimiento de información de la tarjeta de identidad indonesia con búsqueda de región integrada. Desarrollado en Go con arquitectura modular y lista para producción.",
+    "categoria": "OSINT General",
+    "tags": [
+      "verificador",
+      "identidad",
+      "indonesia"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 693,
+    "nombre": "osint-tools-radar",
+    "url": "https://github.com/OSINT360/osint-tools-radar",
+    "descripcion": "Catálogo actualizado continuamente que rastrea herramientas de OSINT de fuente abierta e integraciones de agentes. Ofrece un registro exhaustivo de herramientas para la inteligencia de código abierto.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Herramientas OSINT",
+      "Inteligencia Abierta",
+      "Seguridad Informática"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 694,
+    "nombre": "Android-RAT-Directory",
+    "url": "https://github.com/K4N3CO-LABS/Android-RAT-Directory",
+    "descripcion": "Este repositorio sirve como un directorio de documentación integral de Android Remote Access Trojans (RATs) conocidos, compilando variantes gratuitas, comerciales, de código abierto y filtradas, junto con sus payloads de seguimiento principales, características y requisitos de permisos sistémicos. Ofrece una lista exhaustiva de estas herramientas malicious.",
+    "categoria": "GitHub",
+    "tags": [
+      "RATs Android",
+      "Seguridad Móvil",
+      "OSINT Malware"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 695,
+    "nombre": "Prompts-that-Can-Suppress-AI-Hallucinations",
+    "url": "https://github.com/547334452fuhai/Prompts-that-Can-Suppress-AI-Hallucinations",
+    "descripcion": "Esta herramienta proporciona palabras clave que pueden suprimir las alucinaciones en la inteligencia artificial. Su funcionalidad se centra en mitigar errores o respuestas incorrectas generadas por algoritmos de inteligencia artificial.",
+    "categoria": "GitHub",
+    "tags": [
+      "InteligenciaArtificial",
+      "SeguridadInformatica",
+      "AlucinacionesAI"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 696,
+    "nombre": "gitcolombo-maltego",
+    "url": "https://github.com/soxoj/gitcolombo-maltego",
+    "descripcion": "Transformaciones locales de Maltego que revelan los correos electrónicos detrás de un alias, URL de cuenta o repositorio de GitHub, con cada hallazgo ponderado por confianza. Esta herramienta está impulsada por gitcolombo.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Github",
+      "OSINT",
+      "Maltego"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 697,
+    "nombre": "brainrot-investigation-mode",
+    "url": "https://github.com/keane3029-lab/brainrot-investigation-mode",
+    "descripcion": "Fusión de habilidades de detección completa con rigor de investigación de alta calidad, incluyendo archivos de casos y hallazgos originales. Ofrece una entrega máxima de contenido en línea con vocabulario desenfrenado y recibos reales.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Investigación",
+      "OSINT",
+      "Detección"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 698,
+    "nombre": "etshx-osint",
+    "url": "https://github.com/etshxxx/etshx-osint",
+    "descripcion": "etshx-osint es un framework de reconocimiento profundo de OSINT modular escrito en Bash que automatiza el proceso de recopilar información pública disponible sobre un dominio objetivo. Permite obtener información desde registros WHOIS y filtraciones de correo electrónico hasta enumeración de subdominios, extracción de secretos de JavaScript, transparencia de certificados y análisis de vulnerabilidades.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Reconocimiento",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 699,
+    "nombre": "CTF-OhSINT-PT-BR-",
+    "url": "https://github.com/MarkDevBrasil/CTF-OhSINT-PT-BR-",
+    "descripcion": "Guía para resolver el desafío OhSINT en TryHackMe. Esta herramienta proporciona pasos y estrategias para superar el desafío de manera efectiva.",
+    "categoria": "OSINT General",
+    "tags": [
+      "CTF",
+      "OSINT",
+      "TryHackMe"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 700,
+    "nombre": "securitychecker",
+    "url": "https://github.com/11lunaric11/securitychecker",
+    "descripcion": "Herramienta de reconocimiento para pentesters y cazadores de bugs: verifica robots.txt, security.txt y /.well-known/ en múltiples objetivos. Ofrece una interfaz de línea de comandos y una interfaz web en un solo binario Go estático.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Herramienta de reconocimiento",
+      "Seguridad cibernética",
+      "Pentesting"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 701,
+    "nombre": "MacRecon",
+    "url": "https://github.com/at0m-b0mb/MacRecon",
+    "descripcion": "Herramienta de recopilación de información para macOS para hackers éticos y profesionales de seguridad, proporcionando un informe detallado y seguro. Ofrece una auditoría de seguridad calificada con una interfaz gráfica de usuario en PyQt6.",
+    "categoria": "OSINT General",
+    "tags": [
+      "HerramientaOSINT",
+      "SeguridadInformatica",
+      "MacOS"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 702,
+    "nombre": "kali-linux-all-tools-tutorial",
+    "url": "https://github.com/random-dude6969/kali-linux-all-tools-tutorial",
+    "descripcion": "Esta herramienta ofrece documentación y tutoriales para 302 herramientas de pruebas de penetración de Kali Linux, incluyendo comandos y ejemplos del mundo real. Sirve como guía de estudio completa para OSCP, cubriendo herramientas como Nmap, SQLMap, Metasploit, Burp Suite, Hashcat y más.",
+    "categoria": "GitHub",
+    "tags": [
+      "Herramientas de Seguridad",
+      "Kali Linux",
+      "Pruebas de Penetración"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 703,
+    "nombre": "Alian-s_Eye",
+    "url": "https://github.com/DesusLove/Alian-s_Eye",
+    "descripcion": "Descubre, rastrea y analiza huellas digitales en más de 840 plataformas de medios sociales utilizando OSINT con inteligencia artificial. Está diseñada para profesionales de ciberseguridad, investigadores y hackers éticos para agilizar la recopilación de inteligencia en línea con velocidad, precisión y automatización.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia Artificial",
+      "Ciberseguridad",
+      "Análisis Digital"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 704,
+    "nombre": "gmaps-scraper",
+    "url": "https://github.com/nick-choudhary/gmaps-scraper",
+    "descripcion": "Herramienta de extracción de datos de Google Maps: biblioteca de Python asíncrona, interfaz de línea de comandos y servidor MCP para datos de negocios como correos electrónicos, teléfonos, reseñas y leads sobre HTTP puro — sin clave de API y sin navegador. Permite la extracción de información de manera eficiente y sin depender de APIs externas.",
+    "categoria": "OSINT General",
+    "tags": [
+      "extraccion",
+      "googlemaps",
+      "osint"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 705,
+    "nombre": "sentrybatch",
+    "url": "https://github.com/kamolkns/sentrybatch",
+    "descripcion": "Herramienta profesional para análisis de reputación de IP por lotes con VirusTotal, AbuseIPDB, puntuación de riesgo, caché, informes y soporte offline. Ayuda a evaluar y monitorear la seguridad de direcciones IP de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "AnálisisIP",
+      "Reputación",
+      "Ciberseguridad"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 706,
+    "nombre": "arsenal-script-v2026",
+    "url": "https://github.com/Stemmed-seat433/arsenal-script-v2026",
+    "descripcion": "Mejora el gameplay de Arsenal con asistente de puntería, disparo automático, ajustes de hitbox y herramientas de gestión de skins. Esta herramienta ofrece funcionalidades avanzadas para una experiencia de juego más completa.",
+    "categoria": "GitHub",
+    "tags": [
+      "herramienta de juego",
+      "mejora de gameplay",
+      "automatización"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 707,
+    "nombre": "ONYXINT",
+    "url": "https://github.com/sylhetyhackvenger/ONYXINT",
+    "descripcion": "ONYXINT es una herramienta profesional de inteligencia y forenses en la web oscura para investigadores y analistas de seguridad. Permite descubrir servicios .onion de manera anónima a través del motor de búsqueda Tor66 en la red Tor.",
+    "categoria": "OSINT General",
+    "tags": [
+      "InteligenciaOscura",
+      "AnálisisForense",
+      "SeguridadInformática"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 708,
+    "nombre": "passive-recon-intelligence-engine",
+    "url": "https://github.com/Muhammad-Tayab/passive-recon-intelligence-engine",
+    "descripcion": "Un motor de inteligencia de reconocimiento pasivo que convierte un objetivo en más de 150 consultas de búsqueda listas para ser utilizadas en motores como Google, Shodan, FOFA, Censys, GitHub y otros. Esta herramienta es una lista de verificación estructurada para OSINT y dorking",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Reconocimiento",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 709,
+    "nombre": "FatalOsint1",
+    "url": "https://github.com/FatalityDestroyer/FatalOsint1",
+    "descripcion": "Herramienta ligera de inteligencia de código abierto creada para fines educativos y de ciberseguridad, escrita en shell con elementos de Python. Sirve para investigaciones de OSINT de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Ciberseguridad",
+      "Herramienta"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 710,
+    "nombre": "whatweb",
+    "url": "https://github.com/iamx-ariful-islam/whatweb",
+    "descripcion": "Una herramienta ligera en Python para reconocimiento de sitios web y OSINT, diseñada para recopilar direcciones IP, encabezados de servidor, pilas de tecnología y datos WHOIS. Permite realizar análisis de sitios web de forma eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Reconocimiento web",
+      "OSINT",
+      "Análisis de sitios"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 711,
+    "nombre": "noisu",
+    "url": "https://github.com/hnvdie/noisu",
+    "descripcion": "Analizador de estructura de URL y herramienta de deduplicación para investigación de vulnerabilidades, crawling web y descubrimiento de puntos de acceso a gran escala. Ayuda a identificar y eliminar URLs duplicadas en proyectos de bug bounty y reconociendo infraestructuras web.",
+    "categoria": "OSINT General",
+    "tags": [
+      "análisis URL",
+      "reconocimiento web",
+      "descubrimiento de endpoints"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 712,
+    "nombre": "crimescene",
+    "url": "https://github.com/meta416/crimescene",
+    "descripcion": "Herramienta de inteligencia de señales para el análisis de fuentes abiertas. Permite la recopilación y análisis de información de manera efectiva",
+    "categoria": "OSINT General",
+    "tags": [
+      "Análisis",
+      "Inteligencia",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 713,
+    "nombre": "dijitaliz_analiz",
+    "url": "https://github.com/Yorgoangelopoulos/dijitaliz_analiz",
+    "descripcion": "Aplicación de escritorio que analiza y extrae metadatos EXIF y GPS ocultos en fotografías, desarrollada en Python con CustomTkinter. Esta herramienta permite descubrir información escondida en imágenes.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Análisis de metadatos",
+      "EXIF",
+      "GPS"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 714,
+    "nombre": "sinanalekar",
+    "url": "https://github.com/sinanalekar/sinanalekar",
+    "descripcion": "Perfil de GitHub de Sinan Anwar Alekar - desarrollo full-stack, inteligencia artificial, ciberseguridad defensiva y OSINT ética.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Desarrollo",
+      "Ciberseguridad",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 715,
+    "nombre": "passive-recon",
+    "url": "https://github.com/TrueFurina/passive-recon",
+    "descripcion": "Plataforma de OSINT/EASM/CTEM puramente pasiva con más de 15 fuentes de datos y detección de riesgos sin intervención humana directa. Ayuda en la detección de activos y riesgos de forma segura y sin contacto.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Seguridad",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 716,
+    "nombre": "MILLIE",
+    "url": "https://github.com/IDEAGREY/MILLIE",
+    "descripcion": "Detección de vigilancia pasiva para Android, incluyendo radar WiFi/BLE, reconocimiento de matrículas de vehículos Flock ALPR y alertas de cámaras corporales Axon, con opción de sniffer ESP32. Prioriza la privacidad con OSINT local.",
+    "categoria": "OSINT General",
+    "tags": [
+      "vigilancia pasiva",
+      "Android",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 717,
+    "nombre": "sniff-network",
+    "url": "https://github.com/AldricAS/sniff-network",
+    "descripcion": "Sniff Network es una herramienta de reconstrucción y networking en línea de comando con 20 características, incluyendo búsqueda de IP, DNS, whois, verificación de phishing, escaneo de puertos y verificación de SSL, entre otras. No requiere claves de API.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Herramienta de Networking",
+      "Reconocimiento",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 718,
+    "nombre": "Free phone number osint tool",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v16i9o/free_phone_number_osint_tool/",
+    "descripcion": "He estado buscando una herramienta gratuita de inteligencia de código abierto para números de teléfono que proporcione más datos que solo el proveedor y otros detalles. Encontré webvetted, que fue excelente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "herramienta_osint",
+      "número_telefónico",
+      "investigación"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 719,
+    "nombre": "Can someone identify this OSINT site from these screenshots?",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v14nkr/can_someone_identify_this_osint_site_from_these/",
+    "descripcion": "Solicitud de identificación de una herramienta OSINT a partir de capturas de pantalla. Se busca ayuda para determinar el nombre de la herramienta de inteligencia de código abierto.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Herramientas",
+      "Identificación"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 720,
+    "nombre": "Free Gaming OSINT Tools on Osintly",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v0qfa1/free_gaming_osint_tools_on_osintly_epic_games/",
+    "descripcion": "Herramientas de inteligencia de código abierto para juegos en Osintly, incluyendo Epic Games, Xbox y PlayStation. Estas herramientas están disponibles gratuitamente en la plataforma Osintly.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OsintGaming",
+      "HerramientasCiberseguridad",
+      "InteligenciaAbierta"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 721,
+    "nombre": "I built my childhood dream: an open-source intelligence workspace inspired by platforms like Palantir",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v0o480/i_built_my_childhood_dream_an_opensource/",
+    "descripcion": "Desde que era un niño, me fascinaron las películas de espías y hackers, y los grandes mapas de inteligencia que siempre se veían en la pantalla. Con el tiempo, desarrollé una herramienta de inteligencia de código abierto inspirada en plataformas como Palantir.",
+    "categoria": "OSINT General",
+    "tags": [
+      "InteligenciaAbierta",
+      "HerramientaOSINT",
+      "AnálisisDeInformación"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 722,
+    "nombre": "Passive OSINT workspace",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v10827/passive_osint_workspace_looking_for_feedback_on/",
+    "descripcion": "El objetivo es crear un espacio de trabajo de OSINT pasivo. Se busca retroalimentación práctica para mejorar el proyecto.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Herramienta pasiva",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 723,
+    "nombre": "Herramienta de verificación de telefonía y correo electrónico",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v0s5pd/i_built_a_free_tool_that_tells_you_if_a_phone/",
+    "descripcion": "Herramienta gratuita que verifica la validez de números de teléfono, la entrega de correos electrónicos y la detección de IP detrás de una VPN en menos de un segundo. Esta herramienta ofrece una forma rápida y efectiva de realizar estas verificaciones.",
+    "categoria": "OSINT General",
+    "tags": [
+      "verificacion",
+      "osint",
+      "seguridad"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 724,
+    "nombre": "GhostHound",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v0h33s/ghosthound/",
+    "descripcion": "Herramienta de inteligencia de código abierto para OSINT. Disponible en GitHub para su revisión y uso",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Herramienta",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 725,
+    "nombre": "Herramienta de OSINT para América Latina",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v08xrw/alguien_aqui_del_mundo_hispano_que_se_dedique_al/",
+    "descripcion": "El OSINT en América Latina se enfrenta a desafíos al buscar direcciones en barriadas o construcciones informales. Se busca compartir experiencias y soluciones para mejorar la efectividad del OSINT en la región.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT Latam",
+      "Búsqueda de direcciones",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 726,
+    "nombre": "Telegram bots",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v03vg6/telegram_bots/",
+    "descripcion": "La herramienta Telegram bots permite la creación y gestión de bots en la plataforma de mensajería Telegram. Esta herramienta puede ser útil para tareas de OSINT y automatización de procesos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Bots",
+      "Telegram",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 727,
+    "nombre": "Fingerprint.to",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uyzebt/fingerprintto_is_currently_the_best_free_osint/",
+    "descripcion": "Fingerprint.to es actualmente la mejor herramienta de OSINT gratuita. Permite a los usuarios recopilar información de manera efectiva.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Investigación",
+      "OSINT",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 728,
+    "nombre": "Run Geo and Aeo scans of your website",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uzmxcf/run_geo_and_aeo_scans_of_your_website/",
+    "descripcion": "Herramienta para realizar análisis geográficos y de evaluación de accesibilidad en sitios web. Permite a los usuarios identificar posibles vulnerabilidades y mejorar la seguridad de sus plataformas en línea.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Análisis Geográfico",
+      "Seguridad Web",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 729,
+    "nombre": "How to find",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uzl5f5/how_to_find/",
+    "descripcion": "La herramienta facilita la búsqueda de información en línea. Presenta una guía sobre cómo encontrar datos específicos en redes sociales y plataformas de internet.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Búsqueda",
+      "OSINT",
+      "Herramienta"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 730,
+    "nombre": "Herramientas para Facebook groups",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uz7dv3/whats_tools_are_there_for_facebook_groups/",
+    "descripcion": "Estoy buscando una herramienta que me ayude con un nombre de usuario en grupos de Facebook o grupos privados. La herramienta debería ser capaz de extraer información de estos grupos.",
+    "categoria": "Facebook",
+    "tags": [
+      "Facebook",
+      "Grupos",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 731,
+    "nombre": "Did faceseek actually save anyone from a catfish?",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uyzybw/did_faceseek_actually_save_anyone_from_a_catfish/",
+    "descripcion": "Se busca saber cómo han sido las experiencias de otros con faceSeek. ¿Descubrió algo valioso o solo cosas que habrían salido a la luz de todos modos!",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "FaceSeek",
+      "Catfish"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 732,
+    "nombre": "shoben.io",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uyxdhn/shobenio_cyber_news_ai_parse_extraction_of/",
+    "descripcion": "Herramienta de noticias cibernéticas que utiliza inteligencia artificial para parsear y extraer lecciones técnicas aprendidas. Ofrece una plataforma para analizar y aprender de noticias de ciberseguridad.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Ciberseguridad",
+      "Inteligencia Artificial",
+      "Noticias"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 733,
+    "nombre": "Free trackers keep shrinking their history",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uyx51j/free_trackers_keep_shrinking_their_history/",
+    "descripcion": "Herramienta que analiza la reducción de la historia de seguimiento de rastreadores gratuitos. Esta herramienta podría ser útil para analizar y entender los cambios en la disponibilidad de datos.",
+    "categoria": "Reddit",
+    "tags": [
+      "Rastreadores",
+      "Historial",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 734,
+    "nombre": "Osnit telegram bot needed",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uysjvq/osnit_telegram_bot_needed/",
+    "descripcion": "Necesito un bot de telegram que proporcione detalles de un número de teléfono y que funcione en todo el mundo. Se agradece cualquier ayuda que se pueda proporcionar.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Bot",
+      "Telegram"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 735,
+    "nombre": "Anyone else notice that AI has dramatically cursed us with all these new dashboards",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uyn1l5/anyone_else_notice_that_ai_has_dramatically/",
+    "descripcion": "Recuerdo cuando vine por primera vez a este subreddit, todo era novedoso. Ahora que todos están creando sus propias herramientas y proclamándolas como las mejores.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Herramientas",
+      "InteligenciaArtificial"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 736,
+    "nombre": "HikerAPI",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uyru00/trying_hikerapi_for_osintgram/",
+    "descripcion": "Estaba experimentando con un proyecto de OSINT en Instagram y terminé probando HikerAPI porque las bibliotecas de inicio de sesión antiguas ya no funcionaban para mí. La configuración fue sencilla con una API",
+    "categoria": "Instagram",
+    "tags": [
+      "OSINT",
+      "Instagram",
+      "API"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 737,
+    "nombre": "Historial de Reddit",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uxxdfw/made_a_free_tool_that_shows_any_reddit_users/",
+    "descripcion": "Herramienta que muestra el historial de cualquier cuenta de Reddit, incluyendo contenido eliminado y patrones de actividad. Fue creada por un desarrollador en su tiempo libre.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Historial",
+      "Reddit"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 738,
+    "nombre": "𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙚 𝙨𝙤𝙨𝙧𝙚𝙥𝙤𝙧𝙩 𝙝𝙞𝙨𝙩𝙤𝙧𝙞𝙖 𝙮 𝙜𝙚𝙨𝙩𝙞𝙤𝙣 𝙙𝙚 𝙘𝙞𝙘𝙡𝙤 𝙙𝙚 𝙫𝙞𝙙𝙖",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uyeay4/𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙚_𝙨𝙤𝙨𝙧𝙚𝙥𝙤𝙧𝙩_𝙝𝙞𝙨𝙩𝙤𝙧𝙮_𝙖𝙣𝙙_𝙡𝙞𝙛𝙚𝙘𝙮𝙘𝙡𝙚/",
+    "descripcion": "Herramienta para gestionar la historia y el ciclo de vida. Se encuentra disponible en Reddit.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Gestión",
+      "Historia"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 739,
+    "nombre": "Insulin",
+    "url": "https://www.reddit.com/r/osinttools/comments/1uy96l4/i_finally_built_the_insulin_for_instagram_st4lk3rs/",
+    "descripcion": "Si intenta mantener un seguimiento de alguien, verificar a quién sigue recientemente o quién acaba de seguirlo, pero está cansado de aplicaciones inútiles que solicitan su contraseña. Esta herramienta ofrece una solución para ese propósito.",
+    "categoria": "Instagram",
+    "tags": [
+      "OSINT",
+      "Seguimiento",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 740,
+    "nombre": "OSINT Forensic Capture Tool - Free for all",
+    "url": "https://www.reddit.com/r/osinttools/comments/1ux8g0k/osint_forensic_capture_tool_free_for_all/",
+    "descripcion": "Herramienta de captura forense de OSINT disponible de forma gratuita. Esta herramienta se encuentra en Reddit y parece ser una herramienta útil para la recopilación y análisis de información en línea.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Herramienta forense",
+      "Captura de datos"
+    ],
+    "fecha_agregado": "2026-07-20"
   }
 ]
