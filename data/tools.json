@@ -9649,5 +9649,694 @@
       "Captura de datos"
     ],
     "fecha_agregado": "2026-07-20"
+  },
+  {
+    "id": 741,
+    "nombre": "OpenTrace",
+    "url": "https://github.com/Gacut/OpenTrace",
+    "descripcion": "Entorno de escritorio sin conexión para organizar investigaciones de OSINT de manera eficiente. Esta herramienta proporciona un espacio de trabajo para analizar y gestionar información de inteligencia de fuentes abiertas.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Investigacion",
+      "OSINT",
+      "Seguridad"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 742,
+    "nombre": "breachgazette",
+    "url": "https://github.com/slicedearth/breachgazette",
+    "descripcion": "Observatorio de notificaciones públicas de violaciones de seguridad y registros regulatorios. Ofrece información sobre violaciones de datos y cumplimiento normativo.",
+    "categoria": "OSINT General",
+    "tags": [
+      "seguridad",
+      "violaciones",
+      "notificaciones"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 743,
+    "nombre": "crypttrace",
+    "url": "https://github.com/bobslayerX/crypttrace",
+    "descripcion": "Herramienta de investigación de criptomonedas en línea de comandos para rastrear fondos robados en la cadena de bloques. Ayuda en la investigación de delitos relacionados con criptomonedas.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Criptomonedas",
+      "Rastreo",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 744,
+    "nombre": "tarrafa_scraper",
+    "url": "https://github.com/Mosimann-adv/tarrafa_scraper",
+    "descripcion": "Tarrafa es una herramienta de línea de comandos para capturar y realizar inventarios legales de fuentes abiertas en la web, incluyendo páginas, sitios, feeds, capturas de pantalla, videos, entre otros. Ayuda en la recopilación de información de diversas fuentes.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Captura web",
+      "Inventario legal",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 745,
+    "nombre": "NIGHT-EYE",
+    "url": "https://github.com/err0rb0t999/NIGHT-EYE",
+    "descripcion": "Herramienta de OSINT modular con inteligencia de teléfono, correo electrónico, dominio y IP para Termux y Linux. Permite la recopilación y análisis de información de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia",
+      "OSINT",
+      "Herramienta"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 746,
+    "nombre": "nexus-osint",
+    "url": "https://github.com/sayan9168/nexus-osint",
+    "descripcion": "Plataforma de análisis de inteligencia OSINT y vinculación en 3D con capacidades nativas de inteligencia artificial. Permite realizar analíticas avanzadas de información en redes complejas.",
+    "categoria": "OSINT General",
+    "tags": [
+      "AnálisisOSINT",
+      "InteligenciaArtificial",
+      "Vínculos3D"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 747,
+    "nombre": "Ryzean84",
+    "url": "https://github.com/Ryzean84/Ryzean84",
+    "descripcion": "Arquitectura de inteligencia y teleometría de datos. Herramienta para recopilar y analizar información de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia",
+      "Telemetria",
+      "Analisis"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 748,
+    "nombre": "moon-shadow-calculator",
+    "url": "https://github.com/kjeldstaps/moon-shadow-calculator",
+    "descripcion": "Herramienta para calcular la ubicación de una foto lunar en función de las sombras y la fecha. Inspirada en ShadowFinder de Bellingcat para la Tierra.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Lunar",
+      "Sombras",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 749,
+    "nombre": "Snare",
+    "url": "https://github.com/T-Onix/Snare",
+    "descripcion": "Motor de detección automática de tecnologías web y descubrimiento de vulnerabilidades CVE para cazadores y equipos de red, con una excelente interfaz de usuario. Esta herramienta permite identificar tecnologías y vulnerabilidades de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Detección de tecnologías",
+      "CVE",
+      "Ciberseguridad"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 750,
+    "nombre": "A2Recon",
+    "url": "https://github.com/ayushrajdev9-cmyk/A2Recon",
+    "descripcion": "A2Recon es un marco de reconocimiento de OSINT profesional que ofrece funcionalidades como reconstrucción de dominios, inteligencia de IP, OSINT de nombres de usuario, correo electrónico, enumeración de subdominios y más. Es una herramienta de hacking ético para la extracción de metadatos y generación de informes.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Reconocimiento",
+      "Etica"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 751,
+    "nombre": "TriageTalon",
+    "url": "https://github.com/BMNTR/TriageTalon",
+    "descripcion": "Reconocimiento avanzado y filtración de superficie de ataque para equipos de seguridad, desarrollo y caza de bugs. Esta herramienta permite a los profesionales de la ciberseguridad identificar y analizar posibles vulnerabilidades de forma eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Seguridad",
+      "Reconocimiento",
+      "Ciberseguridad"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 752,
+    "nombre": "userreaper",
+    "url": "https://github.com/b0dj0x/userreaper",
+    "descripcion": "Userreaper es una herramienta de OSINT diseñada por b0dj0x para realizar búsquedas y recopilación de información sobre usuarios. Permite a los investigadores recopilar datos de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Búsqueda",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 753,
+    "nombre": "download-playlist-from-youtube",
+    "url": "https://github.com/sanchoatrest463/download-playlist-from-youtube",
+    "descripcion": "Descarga vídeos y listas de reproducción de YouTube utilizando yt-dlp, con soporte para extracción de audio, recorte de tiempo y organización de archivos automática. Permite la gestión eficiente de contenido de YouTube de forma sencilla.",
+    "categoria": "GitHub",
+    "tags": [
+      "Descarga de Vídeos",
+      "YouTube",
+      "yt-dlp"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 754,
+    "nombre": "forge-intelligence",
+    "url": "https://github.com/577Industries/forge-intelligence",
+    "descripcion": "Consola de fusión de inteligencia OSINT en tiempo real, con un globo WebGL sobre fuentes de inteligencia de dominio público y una herramienta de reconocimiento pasivo. Es una versión endurecida de Osiris.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia",
+      "OSINT",
+      "Reconocimiento"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 755,
+    "nombre": "oamx",
+    "url": "https://github.com/coolhandle01/oamx",
+    "descripcion": "Lector de la base de datos de activos OWASP Amass y permite canalizarla hacia otras herramientas. Funciona de manera de solo lectura, sin dependencias y es compatible con Amass v4 y v5.",
+    "categoria": "OSINT General",
+    "tags": [
+      "análisis",
+      "seguridad",
+      "osint"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 756,
+    "nombre": "awesome-osint-tools",
+    "url": "https://github.com/oryon-osint/awesome-osint-tools",
+    "descripcion": "Catálogo actualizado continuamente de herramientas de OSINT de código abierto, habilidades, plugins, servidores MCP e integraciones de agencias. Recopila información sobre herramientas y recursos para inteligencia de señales de código abierto.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Herramientas",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 757,
+    "nombre": "verifact",
+    "url": "https://github.com/AravindB98/verifact",
+    "descripcion": "Motor de credibilidad de código abierto para noticias, contenido web y redes sociales, que verifica la procedencia, la reputación de las fuentes y señales de manipulación. Ayuda a evaluar la confiabilidad de la información en línea.",
+    "categoria": "OSINT General",
+    "tags": [
+      "verificacion",
+      "credibilidad",
+      "osint"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 758,
+    "nombre": "facetracer",
+    "url": "https://github.com/b0dj0x/facetracer",
+    "descripcion": "Herramienta para rastrear y analizar información de rostros, desarrollada por b0dj0x. Ayuda a identificar y seguir individuos a través de diferentes fuentes de datos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Rasterización de rostros",
+      "Análisis de datos",
+      "Inteligencia OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 759,
+    "nombre": "SubDomain",
+    "url": "https://github.com/himanshurwtt/SubDomain",
+    "descripcion": "Herramienta interactiva de enumeración de subdominios que combina búsquedas de transparencia de certificados crt.sh, forzado de DNS con hilos y soporte de lista de palabras personalizable, y prueba de estado HTTP — construida con Python + Rich. Permite la identificación y análisis de subdominios de manera eficiente.",
+    "categoria": "OSINT General",
+    "tags": [
+      "enumeración",
+      "subdominios",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 760,
+    "nombre": "hacking-social-media-accounts-free",
+    "url": "https://github.com/Emotiontroline/hacking-social-media-accounts-free",
+    "descripcion": "Demostración de la comprometición de cuentas de redes sociales a través de phishing por correo electrónico. Este proyecto utiliza GoPhish para ilustrar técnicas de phishing en redes sociales.",
+    "categoria": "OSINT General",
+    "tags": [
+      "phishing",
+      "seguridad",
+      "cuentas"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 761,
+    "nombre": "CorpLens-AI",
+    "url": "https://github.com/amn2905/CorpLens-AI",
+    "descripcion": "Plataforma de inteligencia corporativa empresarial impulsada por IA para OSINT, gestión de riesgos de proveedores, auditorías de cumplimiento, inteligencia de cadena de suministro y inteligencia de amenazas. Utiliza tecnologías como FastAPI, React, PostgreSQL, Neo4j y RAG.",
+    "categoria": "OSINT General",
+    "tags": [
+      "InteligenciaEmpresarial",
+      "OSINT",
+      "SeguridadInformatica"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 762,
+    "nombre": "cti-xv-dpx",
+    "url": "https://github.com/Condor2026/cti-xv-dpx",
+    "descripcion": "Este dossier se basa en inteligencia de fuentes abiertas y publicaciones en redes sociales para comprender las TTPs. Está destinado a la comunidad global de ciberseguridad.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia de Amenazas",
+      "Ciberseguridad",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 763,
+    "nombre": "waypoint-osint",
+    "url": "https://github.com/KillaMeep/waypoint-osint",
+    "descripcion": "Aplicación de escritorio de código abierto que estima el lugar donde se tomó una foto. Es autosuficiente, para Windows, sin APIs de pago.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Geolocalización",
+      "Análisis de Imágenes"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 764,
+    "nombre": "scout-osint",
+    "url": "https://github.com/dgoni97/scout-osint",
+    "descripcion": "Agente de agregación de investigación y OSINT para un solo operador, con recolectores personalizables, gráfica de resolución de entidades con puntuación de confianza, síntesis de informes LLM con aislamiento de inyección de prompts y almacenamiento local cifrado. Solo datos públicos.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia",
+      "OSINT",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 765,
+    "nombre": "cti-reports",
+    "url": "https://github.com/screem500/cti-reports",
+    "descripcion": "Investigación independiente de CTI - Investigación de Kikimora/QatarRAT, detección temprana de FakeGit y monitoreo de amenazas cibernéticas en el Golfo. Informes en árabe e inglés con IOCs.",
+    "categoria": "OSINT General",
+    "tags": [
+      "CTI",
+      "Análisis de Amenazas",
+      "Monitoreo de Seguridad"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 766,
+    "nombre": "NullsecMultitools",
+    "url": "https://github.com/fsiuhgshiqoih32/NullsecMultitools",
+    "descripcion": "Herramienta de seguridad ofensiva con 37 módulos y 271 herramientas integradas para tareas de reconocimiento, cracking, pruebas web y API, forensia, OSINT y payloads. Desarrollada en Python puro con soporte para herramientas externas a través de WSL.",
+    "categoria": "OSINT General",
+    "tags": [
+      "SeguridadOfensiva",
+      "HerramientasOSINT",
+      "Python"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 767,
+    "nombre": "GodView-anything",
+    "url": "https://github.com/wjlgatech/GodView-anything",
+    "descripcion": "La visión general de lo que los repositorios mejor valorados realmente enseñan, verificada y actualizada semanalmente, auditada por máquina. Tres pilares fundamentales: conocimiento transferible, herramientas ágiles y comunidad.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Herramienta OSINT",
+      "Análisis de repositorios",
+      "Inteligencia artificial"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 768,
+    "nombre": "darkwolf-v-meta",
+    "url": "https://github.com/infinitule/darkwolf-v-meta",
+    "descripcion": "Cuando una URL se convierte en un arma: un estudio de caso documentado sobre la atribución de señales de referencia de Instagram, recuperación forense y una reversión de 18 días. Esta herramienta explora la atribución y el análisis de señales en Instagram.",
+    "categoria": "Instagram",
+    "tags": [
+      "Análisis Forense",
+      "Señales de Referencia",
+      "OSINT Instagram"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 769,
+    "nombre": "Parallax",
+    "url": "https://github.com/nicostanzo/Parallax",
+    "descripcion": "Parallax es una herramienta de inteligencia de código abierto para recopilar información de fuentes públicas. Ayuda en la recolección y análisis de datos para investigación y OSINT.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Inteligencia",
+      "OSINT",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 770,
+    "nombre": "emailphantom",
+    "url": "https://github.com/b0dj0x/emailphantom",
+    "descripcion": "Herramienta para anonimizar correos electrónicos. Desarrollada por b0dj0x para proteger la identidad en línea.",
+    "categoria": "OSINT General",
+    "tags": [
+      "anonimato",
+      "seguridad",
+      "emails"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 771,
+    "nombre": "Herramienta de OSINT personalizada",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v74hjg/making_my_osint_tool/",
+    "descripcion": "La herramienta de OSINT se presenta como un proyecto personal para la recopilación y análisis de información en línea. Su función y características no están explícitamente detalladas en la información proporcionada.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Recopilación",
+      "Análisis"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 772,
+    "nombre": "Can Someone Find Your Real Name From Just Your Phone Number?",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v7nwwx/can_someone_find_your_real_name_from_just_your/",
+    "descripcion": "Herramienta de investigación que analiza si es posible encontrar el nombre real de una persona solo con su número de teléfono. Permite probar 217 herramientas para determinar la privacidad del número de teléfono.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Privacidad",
+      "Teléfono"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 773,
+    "nombre": "What is the best way to store OSINT bookmarks?",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v743q0/what_is_the_best_way_to_store_osint_bookmarks/",
+    "descripcion": "¿Cuál es la forma más común de guardar herramientas como marcadores para acceder a ellas más adelante durante la investigación? Algunas personas utilizan páginas de inicio.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Marcadores",
+      "Investigación"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 774,
+    "nombre": "NEO-Radar v1.11",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v761je/neoradar_v111/",
+    "descripcion": "NEO-Radar es un escáner de red de código abierto y gratuito, fácil de usar. Está diseñado para ser accesible incluso para aquellos con conocimientos básicos en seguridad informática.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Escaneo de Red",
+      "Herramienta OSINT",
+      "Seguridad Informática"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 775,
+    "nombre": "Meet ShadowBroker iOS",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v7fwem/meet_shadowbroker_ios/",
+    "descripcion": "ShadowBroker iOS es una herramienta de OSINT diseñada para recopilar información. Ofrece capacidades para reunir datos de varias fuentes en dispositivos iOS.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "iOS",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 776,
+    "nombre": "Argus",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v6hrj0/argus_localfirst_osint_framework_13_modules_zero/",
+    "descripcion": "Framework de OSINT de código abierto y gratuito que ofrece 13 módulos y reemplaza herramientas como HIBP, Shodan y Censys con equivalentes locales. Es una solución local-first para la búsqueda de inteligencia de código abierto.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Inteligencia",
+      "Herramienta"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 777,
+    "nombre": "Herramienta OSINT con transformaciones de dark web",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v6kzu8/i_added_dark_web_transforms_to_my_open_source/",
+    "descripcion": "Una herramienta de OSINT de código abierto que incorpora transformaciones para la búsqueda en la dark web. Esta herramienta ofrece capacidades avanzadas para la investigación en entornos ocultos de internet.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "DarkWeb",
+      "Herramientas"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 778,
+    "nombre": "Argus",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v6hdal/argus_localfirst_osint_framework_13_modules_zero/",
+    "descripcion": "Argus es un marco de trabajo de inteligencia de código abierto (OSINT) que funciona de manera local, con 13 módulos y sin necesidad de claves de API, reemplazando herramientas como HIBP, Shodan y Censys con equivalentes locales. Ofrece una solución integral para la recolección y análisis de información.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "Inteligencia",
+      "HerramientaLocal"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 779,
+    "nombre": "Reverse Image Search API for AI Agents",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v66601/reverse_image_search_api_for_ai_agents_find_where/",
+    "descripcion": "La herramienta de Búsqueda de Imágenes Inversa API es para agentes de inteligencia artificial permite encontrar dónde aparece una imagen mediante MCP. Esta herramienta facilita la búsqueda y localización de imágenes en internet.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Búsqueda de Imágenes",
+      "Inteligencia Artificial",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 780,
+    "nombre": "Ghost Track",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v69hft/how_good_is_ghost_track/",
+    "descripcion": "Herramienta de seguimiento y análisis de información en línea. Permite evaluar su eficacia en la recopilación de datos de OSINT.",
+    "categoria": "OSINT General",
+    "tags": [
+      "seguimiento",
+      "análisis",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 781,
+    "nombre": "Rank privacy stack",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v69em8/rank_privacy_stack/",
+    "descripcion": "Herramienta relacionada con la privacidad y el análisis de la información. Permite a los usuarios evaluar y comparar la privacidad de diferentes plataformas y servicios.",
+    "categoria": "OSINT General",
+    "tags": [
+      "privacidad",
+      "análisis",
+      "seguridad"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 782,
+    "nombre": "I mapped out all 5 OSINT intelligence domains into one framework - here's how I structured it and why",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v5xtd5/i_mapped_out_all_5_osint_intelligence_domains/",
+    "descripcion": "Se ha mapeado un marco de trabajo que combina los 5 dominios de inteligencia de OSINT. Esta herramienta explica cómo se estructuró y por qué.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Inteligencia",
+      "Herramientas"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 783,
+    "nombre": "Live Free OSINT Training Event",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v5k13y/live_free_osint_training_event_online/",
+    "descripcion": "Evento de entrenamiento en línea de OSINT gratuito. Proporciona capacitación en línea sobre técnicas y herramientas de inteligencia de código abierto.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Entrenamiento",
+      "Eventos"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 784,
+    "nombre": "Herramienta de extracción de datos de Instagram",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v5q6mz/alguien_conoce_alguna_herramienta_o_programa_para/",
+    "descripcion": "Se busca una herramienta para extraer datos históricos y contenido multimedia de perfiles de Instagram. La herramienta debe poder extraer datos desde abril de 2026 hasta mayo de 2017.",
+    "categoria": "Instagram",
+    "tags": [
+      "Extracción de datos",
+      "Instagram",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 785,
+    "nombre": "Live Free Training Event, online",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v5mck4/live_free_training_event_online/",
+    "descripcion": "Evento de capacitación en vivo y gratuito en línea. Ofrece entrenamiento en línea sobre herramientas de OSINT.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "Capacitacion",
+      "Eventos"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 786,
+    "nombre": "usersearch AI",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v54vln/usersearch_ai_alephintelx_not_working_scam/",
+    "descripcion": "La herramienta Usersearch AI no muestra resultados de IntelX como se promete, y algunas funciones nunca han funcionado. Se cuestiona si es un fraude.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Búsqueda de usuarios",
+      "OSINT",
+      "IntelX"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 787,
+    "nombre": "Where do you draw the line between 'impressive OSINT research' and intrusive digital tracking?",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v4p310/where_do_you_draw_the_line_between_impressive/",
+    "descripcion": "Hola a todos, he estado leyendo mucho sobre herramientas de inteligencia de código abierto y huellas digitales. Estoy explorando las herramientas modernas de scripts, geolocalización de imágenes y arqueología digital.",
+    "categoria": "Reddit",
+    "tags": [
+      "OSINT",
+      "SeguimientoDigital",
+      "Investigacion"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 788,
+    "nombre": "Lemuriant",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v4l07x/lemuriant/",
+    "descripcion": "Lemuriant es una herramienta de inteligencia de código abierto diseñada para la recopilación y análisis de información. Ayuda en la identificación y el seguimiento de fuentes y tendencias en línea.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Investigacion",
+      "Analisis",
+      "OSINT"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 789,
+    "nombre": "OC Real-time interactive conflict map",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v559k0/oc_realtime_interactive_conflict_map_tracking/",
+    "descripcion": "Mapa de conflicto interactivo en tiempo real que rastrea eventos geolocalizados de OSINT en Ucrania y Siria. Esta herramienta proporciona una visión detallada de los acontecimientos en estas regiones.",
+    "categoria": "OSINT General",
+    "tags": [
+      "OSINT",
+      "MapaConflicto",
+      "Inteligencia"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 790,
+    "nombre": "Why people are not using my website?",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v5cwgs/why_people_are_not_using_my_website/",
+    "descripcion": "Herramienta para analizar por qué las personas no utilizan un sitio web. Ayuda a identificar posibles problemas y mejorar la experiencia del usuario.",
+    "categoria": "Reddit",
+    "tags": [
+      "análisis web",
+      "experiencia usuario",
+      "optimización"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 791,
+    "nombre": "SD-Checker",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v51xf4/i_built_a_free_and_opensource_pc_audit_tool_for/",
+    "descripcion": "Herramienta de auditoría de PC para detectar trampas y rastros, diseñada para administradores de juegos. Es de código abierto y gratuito",
+    "categoria": "Reddit",
+    "tags": [
+      "Auditoria",
+      "Seguridad",
+      "Cheats"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 792,
+    "nombre": "I built a search engine over 30B Reddit posts",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v4sa3a/i_built_a_search_engine_over_30b_reddit_posts/",
+    "descripcion": "Se ha desarrollado un motor de búsqueda que indexa más de 30 mil millones de publicaciones de Reddit, incluyendo aquellas que han sido eliminadas. Esto permite recuperar el contenido original de comentarios marcados como '[removed]'.",
+    "categoria": "Reddit",
+    "tags": [
+      "Motor de Búsqueda",
+      "Reddit OSINT",
+      "Publicaciones Eliminadas"
+    ],
+    "fecha_agregado": "2026-07-27"
+  },
+  {
+    "id": 793,
+    "nombre": "OpenTrace",
+    "url": "https://www.reddit.com/r/osinttools/comments/1v4p47r/opentrace_an_offline_investigation_board_for_your/",
+    "descripcion": "OpenTrace es una herramienta de investigación offline para recopilar y analizar inteligencia. Permite a los usuarios organizar y visualizar información de manera efectiva.",
+    "categoria": "OSINT General",
+    "tags": [
+      "Investigación",
+      "Análisis",
+      "Inteligenencia"
+    ],
+    "fecha_agregado": "2026-07-27"
   }
 ]
